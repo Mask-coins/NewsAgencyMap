@@ -1,0 +1,852 @@
+新聞社,拠点,所在地,都市,URL
+共同通信社,本社,〒105-7201 東京都港区東新橋1-7-1 汐留メディアタワー,東京,
+共同通信社,東京支社,〒105-7201 東京都港区東新橋1-7-1 汐留メディアタワー,東京,
+共同通信社,札幌支社,〒060-0042 札幌市中央区大通西3-6(北海道新聞社内),札幌,
+共同通信社,仙台支社,〒980-0022 仙台市青葉区五橋1-2-28(河北新報社内),仙台,
+共同通信社,名古屋支社,〒460-0001 名古屋市中区三の丸1-6-1(中日新聞社内),名古屋,
+共同通信社,大阪支社,〒541-0043 大阪市中央区高麗橋1-4-2（日本経済新聞社大阪本社ビル内）,大坂,
+共同通信社,福岡支社,〒810-0001 福岡市中央区天神1-4-1(西日本新聞会館内),福岡,
+共同通信社,札幌支社管内釧路支局,〒085-0018 北海道釧路市黒金町11丁目5－1,釧路,
+共同通信社,札幌支社管内旭川支局,〒070-0034 北海道旭川市4条通9丁目1703?75,旭川,
+共同通信社,札幌支社管内函館支局,〒040-0001 北海道函館市五稜郭町31－3,函館,
+共同通信社,仙台支社管内青森支局,〒030-0180 青森県青森市第二問屋町3丁目1－89,青森,
+共同通信社,仙台支社管内秋田支局,〒010-0956 秋田県秋田市山王臨海町1?1,秋田,
+共同通信社,仙台支社管内山形支局,〒990-0047 山形県山形市旅篭町2丁目5－12,山形,
+共同通信社,仙台支社管内盛岡支局,〒020-8622 岩手県盛岡市内丸3?7,盛岡,
+共同通信社,仙台支社管内福島支局,〒960-8041 福島県福島市大町7?3,福島,
+共同通信社,東京支社管内宇都宮支局,〒320-0032 栃木県宇都宮市昭和1丁目8?11,宇都宮,
+共同通信社,東京支社管内水戸支局,〒310-0852 茨城県水戸市笠原町978?25,水戸,
+共同通信社,東京支社管内前橋支局,〒371-0844 群馬県前橋市古市町1丁目50?21,前橋,
+共同通信社,東京支社管内千葉支局,〒260-0013 千葉県千葉市中央区中央4丁目14?9,千葉,
+共同通信社,東京支社管内成田分室,〒282-0011 千葉県成田市三里塚御料牧場1－1,成田,
+共同通信社,東京支社管内横浜支局,〒231-0011 神奈川県横浜市中区太田町2丁目23,横浜,
+共同通信社,東京支社管内さいたま支局,〒330-0064 埼玉県さいたま市浦和区岸町7丁目12?1,さいたま市,
+共同通信社,東京支社管内甲府支局,〒400-0024 山梨県甲府市北口2丁目6?10,甲府,
+共同通信社,東京支社管内長野支局,〒380-0836 長野県長野市南県町657,長野,
+共同通信社,東京支社管内新潟支局,〒950-0088 新潟県新潟市中央区万代3-1-1,新潟,
+共同通信社,名古屋支社管内津支局,〒514-0009 三重県津市羽所町388,津,
+共同通信社,名古屋支社管内静岡支局,〒422-8033 静岡県静岡市駿河区登呂3丁目1?1,静岡,
+共同通信社,名古屋支社管内岐阜支局,〒500-8069 岐阜県岐阜市今小町10,岐阜,
+共同通信社,名古屋支社管内富山支局,〒930-0094 富山県富山市安住町2?14,富山,
+共同通信社,名古屋支社管内金沢支局,〒920-0919 石川県金沢市南町2-1,金沢,
+共同通信社,名古屋支社管内福井支局,〒910-0802 福井県福井市大和田2丁目801,福井,
+共同通信社,大阪支社管内京都支局,〒604-0862 京都府京都市中京区烏丸夷川上ル,京都,
+共同通信社,大阪支社管内大津支局,〒520-0044 滋賀県大津市京町2－5－10（大津神港ビルヂング内）,大津,
+共同通信社,大阪支社管内奈良支局,〒630-8241 奈良県奈良市高天町38?3,奈良,
+共同通信社,大阪支社管内和歌山支局,〒640-8157 和歌山県和歌山市八番丁11,和歌山,
+共同通信社,大阪支社管内神戸支局,〒650-0044 兵庫県神戸市中央区東川崎町1丁目5?7,神戸,
+共同通信社,大阪支社管内岡山支局,〒700-8634 岡山県岡山市北区柳町2丁目1?1,岡山,
+共同通信社,大阪支社管内広島支局,〒730-0854 広島県広島市中区土橋町7?1,広島,
+共同通信社,大阪支社管内鳥取支局,〒680-0845 鳥取県鳥取市富安2丁目137,鳥取,
+共同通信社,大阪支社管内松江支局,〒690-0887 島根県松江市殿町383,松江,
+共同通信社,大阪支社管内山口支局,〒753-0074 山口県山口市中央5丁目7?3,山口,
+共同通信社,大阪支社管内高松支局,〒760-0008 香川県高松市中野町15?1,高松,
+共同通信社,大阪支社管内松山支局,〒790-0067 愛媛県松山市大手町1丁目12?1,松山,
+共同通信社,大阪支社管内徳島支局,〒770-0853 徳島市中徳島町2-5-2,徳島,
+共同通信社,大阪支社管内高知支局,〒780-8572 高知県高知市本町3丁目2?15,高知,
+共同通信社,福岡支社管内北九州分室,〒802-0005 福岡県北九州市小倉北区堺町1丁目2-16,関門,
+共同通信社,福岡支社管内大分支局,〒870-0021 大分県大分市府内町3丁目9?15,大分,
+共同通信社,福岡支社管内宮崎支局,〒880-0812 宮崎県宮崎市高千穂通1丁目1?33,宮崎,
+共同通信社,福岡支社管内長崎支局,〒852-8104 長崎県長崎市茂里町3?1,長崎,
+共同通信社,福岡支社管内佐賀支局,〒840-0815 佐賀県佐賀市天神3丁目2?23,佐賀,
+共同通信社,福岡支社管内熊本支局,〒860-8506 熊本県熊本市中央区世安町172,熊本,
+共同通信社,福岡支社管内鹿児島支局,〒890-8603 鹿児島県鹿児島市与次郎1丁目9?33,鹿児島,
+共同通信社,福岡支社管内那覇支局,〒900-0015 沖縄県那覇市久茂地1-3-1,那覇,
+共同通信社,中国総局,,北京,
+共同通信社,上海支局,,上海,
+共同通信社,広州支局,,広東,
+共同通信社,香港支局,,香港,
+共同通信社,台北支局,,台北,
+共同通信社,ウランバートル支局,,ウランバートル,
+共同通信社,平壌支局,,平壌,
+共同通信社,ソウル支局,,ソウル,
+共同通信社,バンコク支局,,バンコク,
+共同通信社,マニラ支局,,マニラ,
+共同通信社,ジャカルタ支局,,ジャカルタ,
+共同通信社,ハノイ支局,,ハノイ,
+共同通信社,プノンペン支局,,プノンペン,
+共同通信社,シンガポール支局,,シンガポール,
+共同通信社,ヤンゴン支局,,ヤンゴン,
+共同通信社,ニューデリー支局,,ニューデリー,
+共同通信社,イスラマバード支局,,イスラマバード,
+共同通信社,カブール支局,,カブール,
+共同通信社,シドニー支局,,シドニー,
+共同通信社,カイロ支局,,カイロ,
+共同通信社,エルサルム支局,,エルサルム,
+共同通信社,イスタンブール支局,,イスタンブール,
+共同通信社,テヘラン支局,,テヘラン,
+共同通信社,バグダッド支局,,バグダッド,
+共同通信社,ナイロビ支局,,ナイロビ,
+共同通信社,ブリュッセル支局,,ブリュッセル,
+共同通信社,ロンドン支局,,ロンドン,
+共同通信社,パリ支局,,パリ,
+共同通信社,ベルリン支局,,ベルリン,
+共同通信社,ローマ支局,,ローマ,
+共同通信社,ジュネーブ支局,,ジュネーブ,
+共同通信社,ベオグラード支局,,ベオグラード,
+共同通信社,ウィーン支局,,ウィーン,
+共同通信社,ワルシャワ支局,,ワルシャワ,
+共同通信社,モスクワ支局,,モスクワ,
+共同通信社,ウラジオストク支局,,ウラジオストク,
+共同通信社,ワシントン支局,,ワシントン,
+共同通信社,ニューヨーク支局,,ニューヨーク,
+共同通信社,ロサンゼルス支局,,ロサンゼルス,
+共同通信社,アーリントン支局,,アーリントン,
+共同通信社,ハバナ支局,,ハバナ,
+共同通信社,サンパウロ支局,,サンパウロ,
+時事通信社,札幌支社,〒060-0004 札幌市中央区北4条西6-1 毎日札幌会館8F,札幌,
+時事通信社,苫小牧支局,〒053-0021 苫小牧市若草町3-1-8 苫小牧民報2F,苫小牧,
+時事通信社,室蘭支局,〒051-0022室蘭市海岸町1-4-1むろらん広域センタービル1F,室蘭,
+時事通信社,帯広支局,〒080-0801帯広市東一条南8-2十勝毎日新聞社ビル4F,帯広,
+時事通信社,釧路支局,〒085-0018釧路市黒金町7-3釧新ビル3F,釧路,
+時事通信社,旭川支局,〒070-0032旭川市二条通9丁目道銀ビル6F,旭川,
+時事通信社,函館支局,〒040-0063函館市若松町14-10函館ツインタワービル9F,函館,
+時事通信社,仙台支社,〒980-0822仙台市青葉区立町27-21仙台橋本ビル7F,仙台,
+時事通信社,石巻支局,〒986-0022石巻市魚町2-12-3石巻市水産総合振興センター2F　205号,石巻,
+時事通信社,青森支局,〒030-0861青森市長島2-25-3ニッセイ青森センタービル2F,青森,
+時事通信社,八戸支局,〒031-0031八戸市番町3NCビル3F,八戸,
+時事通信社,秋田支局,〒010-0951秋田市山王6-10-9猿田興業ビル4F,秋田,
+時事通信社,盛岡支局,〒020-0022盛岡市大通1-3-4宝来ビル5F,盛岡,
+時事通信社,山形支局,〒990-0031山形市十日町1-3-29山形十日町ビル7F,山形,
+時事通信社,福島支局,〒960-8068福島市太田町13-17福島民報ビル4F,福島,
+時事通信社,郡山支局,〒963-8017郡山市長者1-3-8イートンセンター2　112号,郡山,
+時事通信社,いわき支局,〒970-8026いわき市平字小太郎町3-1パークサイト小太郎301,いわき,
+時事通信社,立川支局,〒190-0012立川市曙町2-9-1菊屋ビル5F,立川,
+時事通信社,横浜総局,〒231-0021横浜市中区日本大通14KN日本大通ビル3F,横浜,
+時事通信社,川崎支局,〒210-0006川崎市川崎区砂子1-1-12いせやビル403,川崎,
+時事通信社,厚木支局,〒243-0014厚木市旭町1-32-5大沢ビル2F,厚木,
+時事通信社,相模原支局,〒252-0239神奈川県相模原市中央区中央3-12-3相模原商工会館　本館1F,相模原,
+時事通信社,千葉支局,〒260-0013千葉市中央区中央4-15-1読売千葉ビル3F,千葉,
+時事通信社,成田支局,〒282-0011成田市成田国際空港中央ビル新館 NC6040,成田,
+時事通信社,さいたま支局,〒330-0061さいたま市浦和区常盤4-1-1浦和システムビルヂング2F,さいたま,
+時事通信社,川越支局,〒350-1122川越市脇田町17-25畑仲ビル4F,川越,
+時事通信社,前橋支局,〒371-0022前橋市千代田町1-3-1,前橋,
+時事通信社,宇都宮支局,〒320-0033宇都宮市本町10-3TSビル3F,宇都宮,
+時事通信社,水戸支局,〒310-0011水戸市三の丸1-1-25水戸駅前ビル4F,水戸,
+時事通信社,つくば支局,〒305-0051つくば市二の宮3-8-2雅ビル401号,つくば,
+時事通信社,長野支局,〒380-0836長野市南県町657信濃毎日新聞社7F,長野,
+時事通信社,諏訪支局,〒392-0022諏訪市高島3-1323-1長野日報社5F,諏訪,
+時事通信社,松本支局,〒390-0873松本市丸の内8-3丸の内ビル,松本,
+時事通信社,新潟支局,〒950-0088新潟市中央区万代3-1-1新潟日報メディアシップ14F,新潟,
+時事通信社,名古屋支社,〒460-0003名古屋市中区錦2-2-13センタービル8F,名古屋,
+時事通信社,豊橋支局,〒440-0888豊橋市駅前大通2-33-1開発ビル9F,豊橋,
+時事通信社,岡崎支局,〒444-0047岡崎市八幡町1-10さんぞうビル3F,岡崎,
+時事通信社,静岡総局,〒420-0853静岡市葵区追手町9-22読売静岡ビル2F,静岡,
+時事通信社,沼津支局,〒410-0892沼津市魚町1サンフロント7F,沼津,
+時事通信社,浜松支局,〒430-0933浜松市中区鍛冶町124Hビル6F,浜松,
+時事通信社,岐阜支局,〒500-8875岐阜市柳ケ瀬通1-12岐阜中日ビル8F,岐阜,
+時事通信社,津支局,〒514-0004津市栄町1-840大同生命・瀧澤ビル7F4号,津,
+時事通信社,富山支局,〒930-0094 富山市安住町2-14北日本スクェア北館803号,富山,
+時事通信社,金沢支局,〒920-0961金沢市香林坊1-2-24香林坊プラザ,金沢,
+時事通信社,福井支局,〒910-0836福井市大和田2-801福井新聞社内4F,福井,
+時事通信社,大阪支社,〒541-0051大阪市中央区備後町4-1-3御堂筋三井ビルディング6F,大阪,
+時事通信社,堺支局,〒590-0075堺市堺区南花田口町2-1-18新堺東ビル4F,堺,
+時事通信社,京都総局,〒604-8101京都市中京区柳馬場通御池下る柳八幡町65京都朝日ビル5F,京都,
+時事通信社,神戸総局,〒650-0023神戸市中央区栄町通4-3-5毎日新聞神戸ビル6F,神戸,
+時事通信社,阪神支局,〒660-0881尼崎市昭和通3-96尼崎商工会議所ビル5F,阪神,
+時事通信社,姫路支局,〒670-0965姫路市東延末1-4東亜ビル2F,姫路,
+時事通信社,大津支局,〒520-0806大津市打出浜2-1コラボしが21　4F,大津,
+時事通信社,奈良支局,〒630-8217奈良市橋本町5好生ビル4F,奈良,
+時事通信社,和歌山支局,〒640-8567 和歌山市西汀丁36和歌山商工会議所ビル2F,和歌山,
+時事通信社,広島支社,〒730-0011広島市中区基町5-44商工会議所ビル5F,広島,
+時事通信社,福山支局,〒720-0812福山市霞町1-1-1信愛ビル7F,福山,
+時事通信社,岡山支局,〒700-0904岡山市北区柳町2-1-1山陽新聞本社ビル15F,岡山,
+時事通信社,鳥取支局,〒680-0034 鳥取市元魚町2-201エステートビルＶ 6F4号,鳥取,
+時事通信社,米子支局,〒683-0823 米子市加茂町2-204米子商工会議所5F,米子,
+時事通信社,松江支局,〒690-0846 松江市末次町23,松江,
+時事通信社,山口支局,〒753-0072山口市大手町7-4KRY山口放送ビル6F,山口,
+時事通信社,松山支局,〒790-0067 松山市大手町1-11-4愛媛新聞・愛媛電算ビル6F,松山,
+時事通信社,高松支局,〒760-0033高松市丸の内4-7,高松,
+時事通信社,徳島支局,〒770-0852徳島市徳島町2-13,徳島,
+時事通信社,高知支局,〒780-0901高知市上町2-5-1臼井エステートビル4F,高知,
+時事通信社,福岡支社,〒810-0001 福岡市中央区天神2-13-7福岡平和ビル7F,福岡,
+時事通信社,久留米支局,〒830-0023 久留米市中央町22-17大和建設本社ビル1F,久留米,
+時事通信社,北九州支局,〒802-0003 北九州市小倉北区米町2-2-1新小倉ビル3F,北九州,
+時事通信社,下関支局,〒750-0066 下関市東大和町1-1-7山口新聞会館4F,下関,
+時事通信社,佐賀支局,〒840-0826 佐賀市白山2-1-12佐賀商工ビル6F,,
+時事通信社,長崎支局,〒850-0033長崎市万才町6-35大樹生命長崎ビル3F,,
+時事通信社,熊本支局,〒860-0844 熊本市中央区水道町9-31損保ジャパン熊本水道町ビル5F,,
+時事通信社,大分支局,〒870-0046 大分市荷揚町6-16スカイメゾン外苑203号室,,
+時事通信社,宮崎支局,〒880-0803宮崎市旭1-8-18,,
+時事通信社,鹿児島支局,〒892-0821鹿児島市名山町1-3鹿児島ビル4F,,
+時事通信社,那覇支局,〒900-0021那覇市泉崎1-14-8,,
+時事通信社,中国総局,,中国,
+時事通信社,上海（支局）,,上海,
+時事通信社,香港（支局）,,香港,
+時事通信社,台北（支局）,,台北,
+時事通信社,ソウル（支局）,,ソウル,
+時事通信社,バンコク（支局）,,バンコク,
+時事通信社,ハノイ（支局）,,ハノイ,
+時事通信社,マニラ（支局）,,マニラ,
+時事通信社,クアラルンプール（支局）,,クアラルンプール,
+時事通信社,シンガポール（支局）,,シンガポール,
+時事通信社,ジャカルタ（支局）,,ジャカルタ,
+時事通信社,ニューデリー（支局）,,ニューデリー,
+時事通信社,シドニー（支局）,,シドニー,
+時事通信社,カイロ（支局）,,カイロ,
+時事通信社,エルサレム（支局）,,エルサレム,
+時事通信社,ロンドン（支局）,,ロンドン,
+時事通信社,パリ（支局）,,パリ,
+時事通信社,ベルリン（支局）,,ベルリン,
+時事通信社,フランクフルト（支局）,,フランクフルト,
+時事通信社,ブリュッセル（支局）,,ブリュッセル,
+時事通信社,モスクワ（支局）,,モスクワ,
+時事通信社,ニューヨーク,,ニューヨーク,
+時事通信社,ワシントン,,ワシントン,
+時事通信社,シカゴ,,シカゴ,
+時事通信社,シリコンバレー,,サンフランシスコ,
+時事通信社,ロサンゼルス,,ロサンゼルス,
+時事通信社,サンパウロ,,サンパウロ,
+Thomson Reuters,"Bangalore, Technopolis Location","Technopolis - Yamalur Village
+
+Amani Bellandur Kane
+
+Bangalore 560037
+
+India
+
++91 80 6749 0000",バンガロール,https://www.thomsonreuters.com/en/locations/location-detail.html/bangalore-technopolis-location
+Thomson Reuters,Bangkok Location,"Unit 1-2, 11th Floor, CRC Tower, All Seasons Place
+
+87/2 Wireless Road, Lumpini
+
+Pathumwan, Bangkok 10330
+
+Thailand
+
++662 648 9001",バンコク,https://www.thomsonreuters.com/en/locations/location-detail.html/bangkok-location
+Thomson Reuters,"Beijing, Arca Bldg Location","Arca Bldg Block 15
+
+Beijing 100193
+
+China
+
++86 10 6267 4111",北京,https://www.thomsonreuters.com/en/locations/location-detail.html/beijing-arca-bldg-location
+Thomson Reuters,"Beijing, World Trade Center Location","Thomson Reuters office locations
+20F, E1 Tower Oriental Plaza
+
+No.1 East Chang'an Avenue
+
+Beijing 100006
+
+China
+
++86 10 6627 1288",北京,https://www.thomsonreuters.com/en/locations/location-detail.html/beijing-world-trade-center-location
+Thomson Reuters,Gujarat Location,"2F, Parshwanth Esquare Building
+
+Corporate Road, Prahlad Nagar Ahmedabad
+
+Gujarat 380015
+
+India
+
++91 22 6180 7001",アフマダーバード,https://www.thomsonreuters.com/en/locations/location-detail.html/gujarat-location
+Thomson Reuters,Gurgaon Location,"10th Floor, Building 9B
+
+DLF Cyber City
+
+Gurgaon ? 122002, Haryana
+
+India",グルグラム,https://www.thomsonreuters.com/en/locations/location-detail.html/gurgaon-location
+Thomson Reuters,"Hong Kong, Cityplaza Location","Cityplaza Three
+
+14 Tai Koo Wan Road
+
+Quarry Bay
+
+Hong Kong
+
++852 2843 6363",香港,https://www.thomsonreuters.com/en/locations/location-detail.html/hong-kong-cityplaza-location
+Thomson Reuters,"Hong Kong, ICBC Tower Location","ICBC Tower, 18/F
+
+3 Garden Road
+
+Central
+
+Hong Kong
+
++852 3761 1800",香港,https://www.thomsonreuters.com/en/locations/location-detail.html/hong-kong-icbc-tower-location
+Thomson Reuters,Hyderabad Location,"Divyasree Solitaire 14
+
+Hyderabad, Andhra Pradesh 500081
+
+India
+
++91 40 6714 0000",ハイデラバード,https://www.thomsonreuters.com/en/locations/location-detail.html/hong-kong-icbc-tower-location
+Thomson Reuters,Mumbai Location,"1 Bandra Kurla Complex (BKC)
+
+Mumbai
+
+India
+
++91 22 6180 7001",ムンバイ,https://www.thomsonreuters.com/en/locations/location-detail.html/mumbai-location
+Thomson Reuters,Seoul Location,"14F Gwanghwamun Building
+
+149 Sejong-daero, Jongno-gu
+
+Seoul 03186
+
+Korea, Republic of
+
++82 2 3704 5500",ソウル,https://www.thomsonreuters.com/en/locations/location-detail.html/mumbai-location
+Thomson Reuters,Shanghai Location,"Azia Center
+
+1233 Lujiazui Ring Road
+
+Shanghai 200120
+
+China
+
++86 21 6104 1688",上海,https://www.thomsonreuters.com/en/locations/location-detail.html/mumbai-location
+Thomson Reuters,"Singapore, Science Park Location","18 Science Park Drive
+
+118 229
+
+Singapore
+
++65 6403 5557",シンガポール,https://www.thomsonreuters.com/en/locations/location-detail.html/mumbai-location
+Thomson Reuters,"Taguig, Upper McKinley Road Location","8 and 20 Upper McKinley Road
+
+Taguig 1634
+
+Philippines
+
++632 459 1000",マニラ,https://www.thomsonreuters.com/en/locations/location-detail.html/mumbai-location
+Thomson Reuters,Taipei Location,"Nanshan Plaza, located at 28, 29, 30, Subsection 4, Xinyi Section
+
+Xinyi
+
+Taipei
+
+Taiwan
+
++886 2 2503 3034",台北,https://www.thomsonreuters.com/en/locations/location-detail.html/mumbai-location
+Thomson Reuters,Tokyo Location,"5-3-1 Akasaka, Minato-Ku
+
+Tokyo 107-6901
+
+Japan
+
++813 6441 1200",東京,https://www.thomsonreuters.com/en/locations/location-detail.html/tokyo-location
+Thomson Reuters,"Melbourne, 333 Collins Street Location","333 Collins Street
+
+Melbourne
+
+Australia
+
++61 3 8684 2000",メルボルン,https://www.thomsonreuters.com/en/locations/location-detail.html/melbourne-333-collins-street-location
+Thomson Reuters,Pyrmont Location,"19 Harris Street, Level 6
+
+Pyrmont NSW 2009
+
+Australia
+
++61 (0)2 8587 7980",シドニー,https://www.thomsonreuters.com/en/locations/location-detail.html/pyrmont-location
+Thomson Reuters,Dubai Location,"Dubia Media City, Building 1
+
+Dubai
+
+United Arab Emirates
+
++971 44536300",ドバイ,https://www.thomsonreuters.com/en/locations/location-detail.html/dubai-location
+Thomson Reuters,Johannesburg Location,"2 Maude Street
+
+Sandton, Johannesburg 2196
+
+South Africa
+
++27 11 775 3000",ヨハネスブルグ,https://www.thomsonreuters.com/en/locations/location-detail.html/johannesburg-location
+Thomson Reuters,Lagos Location,"KPMG Towers
+
+Bishop Aboyade Cole Street
+
+Lagos
+
+Nigeria
+
++234 1700 7302",ラゴス,https://www.thomsonreuters.com/en/locations/location-detail.html/lagos-location
+Thomson Reuters,Amsterdam Location,"Antonio Vivaldistraat 50, 1083 HP
+
+Amsterdam
+
+Netherlands
+
++31 20 504 5045",アムステルダム,https://www.thomsonreuters.com/en/locations/location-detail.html/amsterdam-location
+Thomson Reuters,Athens Location,"8 Othonos Street
+
+Syntagma Square
+
+105 57 Athens
+
+Greece
+
++30 210 33 11 800",アテネ,https://www.thomsonreuters.com/en/locations/location-detail.html/athens-location
+Thomson Reuters,Berlin Location,"Berliner Freiheit 2
+
+10785 Berlin
+
+Germany
+
++49 30 2888 5000",ベルリン,https://www.thomsonreuters.com/en/locations/location-detail.html/berlin-location
+Thomson Reuters,Bucharest Location,"17,C.A Rosetti 2nd District
+
+Bucharest 020011
+
+Romania
+
++40 21 3055285",ブカレスト,https://www.thomsonreuters.com/en/locations/location-detail.html/bucharest-location
+Thomson Reuters,Budapest Location,"Ujbuda Allee Corner, H-1117 Huszonharmadika str. 8-10
+
+Budapest
+
+Hungary
+
++36 1 327 4600",ブダペスト,https://www.thomsonreuters.com/en/locations/location-detail.html/budapest-location
+Thomson Reuters,Copenhagen Location,"Industriens Hus, Vesterbrogade 1E, 4. Sal
+
+1620 Copenhagen V
+
+Denmark
+
++45 33 96 96 96",コペンハーゲン,https://www.thomsonreuters.com/en/locations/location-detail.html/copenhagen-location
+Thomson Reuters,"Dublin, Exchange Place Location","12-13 Exchange Place, 3rd Floor
+
+IFSC
+
+Dublin
+
+Ireland
+
++353 01 500 1500",ダブリン,https://www.thomsonreuters.com/en/locations/location-detail.html/dublin-exchange-place-location
+Thomson Reuters,Frankfurt Location,"Messeturm Friedrich Ebert Anlage 49
+
+Frankfurt 60327
+
+Germany
+
++49 69 756 50",フランクフルト,https://www.thomsonreuters.com/en/locations/location-detail.html/frankfurt-location
+Thomson Reuters,Gdynia Location,"Baltic Business Center
+
+23/25 Slaska Street
+
+Gdynia 81319
+
+Poland
+
++48 58 699 4600",グディニャ,https://www.thomsonreuters.com/en/locations/location-detail.html/gdynia-location
+Thomson Reuters,Hamburg Location,"Regus, -Kurze Muehren 1
+
+Hamburg
+
+Germany
+
++49 40 419034200",ハンブルク,https://www.thomsonreuters.com/en/locations/location-detail.html/hamburg-location
+Thomson Reuters,Helsinki Location,"Regus Luna House, office 610, 6th Floor
+
+Mannerheimintie 2b
+
+Helsinki
+
+Finland
+
++358 9 680501",ヘルシンキ,https://www.thomsonreuters.com/en/locations/location-detail.html/helsinki-location
+Thomson Reuters,Istanbul Location,"4 Levent
+
+IS Kulerleri Kule 2 Kat: 1-2
+
+80620 Istanbul
+
+Turkey
+
++90 212 350 70 00",イスタンブール,https://www.thomsonreuters.com/en/locations/location-detail.html/istanbul-location
+Thomson Reuters,"London, Blackwall Yard Location","Blackwall Yard
+
+1 Paul Julius Close
+
+London E14 2EH
+
+United Kingdom
+
++44 (0) 20 7542 5295",ロンドン,https://www.thomsonreuters.com/en/locations/location-detail.html/london-blackwall-yard-location
+Thomson Reuters,"London, Canada Square Location","5 Canada Square
+
+London
+
+United Kingdom
+
+44 (0)207 542 6666",ロンドン,https://www.thomsonreuters.com/en/locations/location-detail.html/london-canada-square-location
+Thomson Reuters,"London, South Colonnade Location","30 South Colonnade-Canary Wharf
+
+London E14 5EP
+
+United Kingdom
+
++44 (0) 20 7250 1122",ロンドン,https://www.thomsonreuters.com/en/locations/location-detail.html/london-south-colonnade-location
+Thomson Reuters,Madrid Location,"Paseo de Recoletos 37-41
+
+Madrid
+
+Spain
+
++34 915 85 21 00",マドリード,https://www.thomsonreuters.com/en/locations/location-detail.html/madrid-location
+Thomson Reuters,Milan Location,"Piazza Diaz No 2.
+
+Milan
+
+Italy
+
++39 02 661 291",ミラノ,https://www.thomsonreuters.com/en/locations/location-detail.html/milan-location
+Thomson Reuters,Moscow Location,"5 Petrovka Street
+
+Moscow 107031
+
+Russian Federation
+
++7 495 961 0100",モスクワ,https://www.thomsonreuters.com/en/locations/location-detail.html/moscow-location
+Thomson Reuters,Navarra Location,"Camino De Galar 15
+
+Navarra 31190
+
+Spain
+
++34 9 48 29 72 97",ナバラ,https://www.thomsonreuters.com/en/locations/location-detail.html/navarra-location
+Thomson Reuters,Nottingham Location,"Chapel Bar
+
+Nottingham NG1 6HQ
+
+United Kingdom
+
++44 (0) 20 7542 4300",ノッティンガム,https://www.thomsonreuters.com/en/locations/location-detail.html/nottingham-location
+Thomson Reuters,Oslo Location,"Dronning Eufemias gate 16, 0191
+
+Oslo
+
+Norway
+
++47 23316440",オスロ,https://www.thomsonreuters.com/en/locations/location-detail.html/oslo-location
+Thomson Reuters,Paris Location,"6-8 Blvd Hausmann
+
+Paris 75009
+
+France
+
++33 1 49 49 50 00",パリ,https://www.thomsonreuters.com/en/locations/location-detail.html/paris-location
+Thomson Reuters,Prague Location,"Vaclavske namesti 19
+
+11000 Prague
+
+Czech Republic
+
++ 420224190404",プラハ,https://www.thomsonreuters.com/en/locations/location-detail.html/prague-location
+Thomson Reuters,Stockholm Location,"Kungsgatan 15
+
+111 43
+
+Stockholm
+
+Sweden
+
++46 8 700 10 00",ストックホルム,https://www.thomsonreuters.com/en/locations/location-detail.html/stockholm-location
+Thomson Reuters,Vienna Location,"Boersegasse 11
+
+1010 Vienna
+
+Austria
+
++43(1)53112 0",ウィーン,https://www.thomsonreuters.com/en/locations/location-detail.html/vienna-location
+Thomson Reuters,Warsaw Location,"Atrium Business Center
+
+Wola, Aleja Jana Pawla II 23
+
+00-854 Warsaw
+
+Poland
+
++48 22 653 97 00",ワルシャワ,https://www.thomsonreuters.com/en/locations/location-detail.html/warsaw-location
+Thomson Reuters,West Yorkshire Location,"The Hatchery
+
+Hall Bank Lane, Mytholmroyd
+
+West Yorkshire HX7 5HQ
+
+United Kingdom
+
++44 (0) 20 7542 5295",西ヨークシャー,https://www.thomsonreuters.com/en/locations/location-detail.html/west-yorkshire-location
+Thomson Reuters,Zug Location,"Landis + Gyr-Strasse 3
+
+6300 Zug
+
+Switzerland
+
++41 58 306 50 40",ツーク,https://www.thomsonreuters.com/en/locations/location-detail.html/zug-location
+Thomson Reuters,Zurich Location,"Dufourstrasse 43
+
+Zurich, 8008
+
+Switzerland
+
++41 58 306 77 77",チューリッヒ,https://www.thomsonreuters.com/en/locations/location-detail.html/z%C3%BCrich-location
+Thomson Reuters,Calgary Location,"407 2nd Street SW, 3rd Floor
+
+Calgary, Alberta T2G 1B1
+
+Canada",カルガリー,https://www.thomsonreuters.com/en/locations/location-detail.html/calgary-location
+Thomson Reuters,"Montreal, Graham Boulevard Location","3333 Graham Boulevard
+
+Montreal, Quebec H3R 1K1
+
+Canada
+
++1 514 733 8355",モントリオール,https://www.thomsonreuters.com/en/locations/location-detail.html/montreal-graham-boulevard-location
+Thomson Reuters,"Montreal, Rue Queen Location","75 Rue Queen
+
+Montreal, Quebec H3C 2N6
+
+Canada
+
++1 514 842 3937",モントリオール,https://www.thomsonreuters.com/en/locations/location-detail.html/montreal-rue-queen-location
+Thomson Reuters,"Toronto, Bartley Drive Location","245 Bartley Drive
+
+Toronto, Ontario M4A 2V8
+
+Canada
+
++1 416 609 8000",トロント,https://www.thomsonreuters.com/en/locations/location-detail.html/toronto-bartley-drive-location
+Thomson Reuters,"Toronto, Bay Street Location, Headquarters","333 Bay Street
+
+Toronto, Ontario M5H 2R2
+
+Canada
+
++1 416 687 7500",トロント,https://www.thomsonreuters.com/en/locations/location-detail.html/toronto-bay-street-location-headquarters
+Thomson Reuters,"Toronto, Bremner Boulevard Location","120 Bremner Boulevard
+
+Toronto, Ontario
+
+Canada
+
++1 416 607 1600",トロント,https://www.thomsonreuters.com/en/locations/location-detail.html/toronto-bremner-boulevard-location
+Thomson Reuters,"Toronto, Kennedy Road Location","2075 Kennedy Road
+
+Toronto, Ontario M1T 3V4
+
+Canada
+
++1 416 609 8000",トロント,https://www.thomsonreuters.com/en/locations/location-detail.html/toronto-kennedy-road-location
+Thomson Reuters,"Albuquerque, NM Location","4401 Masthead NE, Suite 100
+
+Albuquerque, New Mexico 87109
+
+United States
+
++1 505 353 4001",アルバカーキ,https://www.thomsonreuters.com/en/locations/location-detail.html/albuquerque-nm-location
+Thomson Reuters,"Ann Arbor, MI Location","6300 Interfirst Drive
+
+Ann Arbor, Michigan 48108
+
+United States
+
++1 800 968 8900",アナーバー,https://www.thomsonreuters.com/en/locations/location-detail.html/ann-arbor-mi-location
+Thomson Reuters,Boston Location,"26 Thomson Place
+
+Boston, Massachusetts 02210
+
+United States
+
++1 617 856 2000",ボストン,https://www.thomsonreuters.com/en/locations/location-detail.html/boston-location
+Thomson Reuters,"Chicago, IL Location","311 South Wacker Drive
+
+Chicago, Illinois 60606
+
+United States
+
++1 312 408 8500",シカゴ,https://www.thomsonreuters.com/en/locations/location-detail.html/chicago-il-location
+Thomson Reuters,Dallas Location,"2395 Midway Road
+
+Carrollton, Texas 75006
+
+United States
+
++1 800 327 8829",ダラス,https://www.thomsonreuters.com/en/locations/location-detail.html/dallas-location
+Thomson Reuters,"Hoboken, NJ Location","121 River Street
+
+Hoboken, New Jersey 07030
+
+United States
+
++1 201 356 6260",ホーボーケン,https://www.thomsonreuters.com/en/locations/location-detail.html/hoboken-nj-location
+Thomson Reuters,Minneapolis-Saint Paul Location,"610 Opperman Dr
+
+Eagan, Minnesota 55123
+
+United States
+
++1 651 687 7000",ミネアポリス,https://www.thomsonreuters.com/en/locations/location-detail.html/minneapolis-saint-paul-location
+Thomson Reuters,"New York, Times Square Location","3 Times Square
+
+New York, New York 10036
+
+United States
+
++1 646 223 4000",ニューヨーク,https://www.thomsonreuters.com/en/locations/location-detail.html/new-york-times-square-location
+Thomson Reuters,"Portage, MI Location","510/524 East Milham Avenue
+
+Portage, Michigan 49002
+
+United States
+
++1 269 567 2900",ポーテージ,https://www.thomsonreuters.com/en/locations/location-detail.html/portage-mi-location
+Thomson Reuters,"Rochester, NY Location","Aqueduct Building
+
+50 Broad Street E
+
+Rochester, New York 14694
+
+United States",ロチェスター,https://www.thomsonreuters.com/en/locations/location-detail.html/rochester-ny-location
+Thomson Reuters,"San Francisco, CA Location","50 California Street
+
+San Francisco, California 94111
+
+United States
+
++1 415 344 6000",サンフランシスコ,https://www.thomsonreuters.com/en/locations/location-detail.html/san-francisco-ca-location
+Thomson Reuters,"Stamford, CT Location","1 Station Place
+
+Stamford, Connecticut 06902
+
+United States
+
++1 203 539 8000",スタンフォード(CT),https://www.thomsonreuters.com/en/locations/location-detail.html/stamford-ct-location
+Thomson Reuters,"Washington, DC Location","1333 H Street NW
+
+Washington DC 20005
+
+United States
+
++1 202 898 8300",ワシントン D.C.,https://www.thomsonreuters.com/en/locations/location-detail.html/washington-dc-location
+Thomson Reuters,Bogota Location,"Edificio Tierra Firme
+
+Carrera 9na # 115-06, piso 26, oficina 2602
+
+Bogota D.C.
+
+Colombia
+
+57 (1) 5185444",ボゴタ,https://www.thomsonreuters.com/en/locations/location-detail.html/bogota-location
+Thomson Reuters,"Buenos Aires, Av. Rivadavia Location","Av. Rivadavia 130, Avellaneda
+
+Buenos Aires B1870
+
+Argentina
+
++54 11 4209 9600",ブエノスアイレス,https://www.thomsonreuters.com/en/locations/location-detail.html/buenos-aires-av.-rivadavia-location
+Thomson Reuters,"Buenos Aires, Bartolome Mitre Location","Bartolome Mitre 430
+
+Buenos Aires C1022AAR
+
+Argentina
+
++5411 5544 6600",ブエノスアイレス,https://www.thomsonreuters.com/en/locations/location-detail.html/buenos-aires-bartolom%C3%A9-mitre-location
+Thomson Reuters,"Buenos Aires, Calle Tucuman Location","Calle Tucuman 1471
+
+Buenos Aires A1050
+
+Argentina
+
+0800 222 5253",ブエノスアイレス,https://www.thomsonreuters.com/en/locations/location-detail.html/buenos-aires-calle-tucuman-location
+Thomson Reuters,Campinas Rua Conceicao Location,"Rua Conceicao
+
+233 Sala 604, Centro
+
+Campinas
+
+Brazil
+
++55 19 3344 9200",カンピーナス,https://www.thomsonreuters.com/en/locations/location-detail.html/campinas-rua-conceicao-location
+Thomson Reuters,Campinas Rua Orlando Fagnani Location,"Rua Orlando Fagnani, 422
+
+Nova Campinas, CEP: 13092-054
+
+Campinas ? SP
+
+Brazil
+
++55 19 3344 9200",カンピーナス,https://www.thomsonreuters.com/en/locations/location-detail.html/campinas-rua-orlando-fagnani-location
+Thomson Reuters,Caracas Location,"Edificio Torre La Castellana, Piso 4, OF 4J
+
+La Castellana
+
+Caracas (Chacao)
+
+Venezuela
+
++58 212 277 2700/5651/2651/2701",カラカス,https://www.thomsonreuters.com/en/locations/location-detail.html/caracas-location
+Thomson Reuters,Heredia Location,"Ultrapark 2
+
+Heredia
+
+Costa Rica
+
++(506) 2277-8832",エレディア,https://www.thomsonreuters.com/en/locations/location-detail.html/heredia-location
+Thomson Reuters,Juiz de Fora Location,"Rua Moraes e Castro
+
+366, Pisos 1 a 3, Alto dos Passos
+
+Juiz de Fora
+
+Brazil
+
++55 32 4009 2900",ジュイス・デ・フォーラ,https://www.thomsonreuters.com/en/locations/location-detail.html/juiz-de-fora-location
+Thomson Reuters,Lima Location,"Av. Victor Andres Belaunde 332, Oficina 302
+
+San Isidro
+
+Lima
+
+Peru
+
++51 1 707 5933/+51 0800 77116",リマ,https://www.thomsonreuters.com/en/locations/location-detail.html/lima-location
+Thomson Reuters,"Mexico City, Blvd. Manuel Avila Camacho Location","Blvd. Manuel Avila Camacho #36, Piso 19, Torre Esmeralda II
+
+Colonia Lomas de Chapultepec, Delegacion Miguel Hidalgo, C.P. 11000
+
+Mexico City
+
+Mexico
+
+52 (55) 5282 7000",メキシコシティ,https://www.thomsonreuters.com/en/locations/location-detail.html/mexico-city-blvd.-manuel-%C3%A1vila-camacho-location
+Thomson Reuters,Santiago Location,"Edificio Centenario, Piso 10
+
+Miraflores 383
+
+Santiago, Region Metropolitana
+
+Chile
+
++56 225105000",サンティアゴ,https://www.thomsonreuters.com/en/locations/location-detail.html/santiago-location
+Thomson Reuters,"Sao Paulo, Cardoso de Melo Location","Av. Cardoso de Melo, 1855, 13 Andar, Vila Olimpia
+
+Sao Paulo
+
+Brazil
+
++55 11 2159 0500",サンパウロ,https://www.thomsonreuters.com/en/locations/location-detail.html/sao-paulo-cardoso-de-melo-location
+Thomson Reuters,"Sao Paulo, Rua do Bosque Location","Rua do Bosque, 820, Barra Funda
+
+Sao Paulo
+
+Brazil
+
++55 11 3613 8400",サンパウロ,https://www.thomsonreuters.com/en/locations/location-detail.html/sao-paulo-rua-do-bosque-location
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

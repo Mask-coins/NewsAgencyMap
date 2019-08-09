@@ -1,0 +1,23 @@
+PREFIX ccode:<http://www.coins.tsukuba.ac.jp/~s1711348/CityCode/property/>
+PREFIX dbp-owl: <http://dbpedia.org/ontology/>
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX prop-ja: <http://ja.dbpedia.org/property/>
+
+SELECT ?city ?d ?lat ?long ?latj1 ?longj1
+WHERE {
+  ?CityCode ccode:都市 ?city .
+  ?CityCode ccode:記事名 ?d .
+  OPTIONAL { 
+    SERVICE <http://ja.dbpedia.org/sparql>{
+      ?d prop-ja:緯度度 ?latj1 .?d prop-ja:経度度 ?longj1 .}
+  }
+  OPTIONAL { 
+    SERVICE <http://ja.dbpedia.org/sparql>{
+      ?d geo:lat ?lat .?d geo:long ?long .}
+  }
+  OPTIONAL { 
+    SERVICE <http://ja.dbpedia.org/sparql>{
+      ?d geo:lat ?lat .?d geo:long ?long .}
+  }
+}
+LIMIT 200

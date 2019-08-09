@@ -1,0 +1,1980 @@
+@base <http://www.coins.tsukuba.ac.jp/~s1711348/NewaAgencyInfo#> .
+@prefix bp: <http://www.coins.tsukuba.ac.jp/~s1711348/NewaAgencyInfo/property/> . 
+@prefix cc: <http://creativecommons.org/ns#> .
+
+<> cc:attributionName "" ;
+   cc:license <http://creativecommons.org/publicdomain/zero/1.0/deed.ja> .
+<1>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "本社"@ja ;
+ bp:所在地 "〒105-7201 東京都港区東新橋1-7-1 汐留メディアタワー"@ja ;
+ bp:都市 "東京"@ja .
+
+<2>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "東京支社"@ja ;
+ bp:所在地 "〒105-7201 東京都港区東新橋1-7-1 汐留メディアタワー"@ja ;
+ bp:都市 "東京"@ja .
+
+<3>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "札幌支社"@ja ;
+ bp:所在地 "〒060-0042 札幌市中央区大通西3-6(北海道新聞社内)"@ja ;
+ bp:都市 "札幌"@ja .
+
+<4>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "仙台支社"@ja ;
+ bp:所在地 "〒980-0022 仙台市青葉区五橋1-2-28(河北新報社内)"@ja ;
+ bp:都市 "仙台"@ja .
+
+<5>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "名古屋支社"@ja ;
+ bp:所在地 "〒460-0001 名古屋市中区三の丸1-6-1(中日新聞社内)"@ja ;
+ bp:都市 "名古屋"@ja .
+
+<6>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "大阪支社"@ja ;
+ bp:所在地 "〒541-0043 大阪市中央区高麗橋1-4-2（日本経済新聞社大阪本社ビル内）"@ja ;
+ bp:都市 "大坂"@ja .
+
+<7>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "福岡支社"@ja ;
+ bp:所在地 "〒810-0001 福岡市中央区天神1-4-1(西日本新聞会館内)"@ja ;
+ bp:都市 "福岡"@ja .
+
+<8>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "札幌支社管内釧路支局"@ja ;
+ bp:所在地 "〒085-0018 北海道釧路市黒金町11丁目5－1"@ja ;
+ bp:都市 "釧路"@ja .
+
+<9>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "札幌支社管内旭川支局"@ja ;
+ bp:所在地 "〒070-0034 北海道旭川市4条通9丁目1703?75"@ja ;
+ bp:都市 "旭川"@ja .
+
+<10>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "札幌支社管内函館支局"@ja ;
+ bp:所在地 "〒040-0001 北海道函館市五稜郭町31－3"@ja ;
+ bp:都市 "函館"@ja .
+
+<11>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "仙台支社管内青森支局"@ja ;
+ bp:所在地 "〒030-0180 青森県青森市第二問屋町3丁目1－89"@ja ;
+ bp:都市 "青森"@ja .
+
+<12>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "仙台支社管内秋田支局"@ja ;
+ bp:所在地 "〒010-0956 秋田県秋田市山王臨海町1?1"@ja ;
+ bp:都市 "秋田"@ja .
+
+<13>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "仙台支社管内山形支局"@ja ;
+ bp:所在地 "〒990-0047 山形県山形市旅篭町2丁目5－12"@ja ;
+ bp:都市 "山形"@ja .
+
+<14>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "仙台支社管内盛岡支局"@ja ;
+ bp:所在地 "〒020-8622 岩手県盛岡市内丸3?7"@ja ;
+ bp:都市 "盛岡"@ja .
+
+<15>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "仙台支社管内福島支局"@ja ;
+ bp:所在地 "〒960-8041 福島県福島市大町7?3"@ja ;
+ bp:都市 "福島"@ja .
+
+<16>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "東京支社管内宇都宮支局"@ja ;
+ bp:所在地 "〒320-0032 栃木県宇都宮市昭和1丁目8?11"@ja ;
+ bp:都市 "宇都宮"@ja .
+
+<17>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "東京支社管内水戸支局"@ja ;
+ bp:所在地 "〒310-0852 茨城県水戸市笠原町978?25"@ja ;
+ bp:都市 "水戸"@ja .
+
+<18>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "東京支社管内前橋支局"@ja ;
+ bp:所在地 "〒371-0844 群馬県前橋市古市町1丁目50?21"@ja ;
+ bp:都市 "前橋"@ja .
+
+<19>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "東京支社管内千葉支局"@ja ;
+ bp:所在地 "〒260-0013 千葉県千葉市中央区中央4丁目14?9"@ja ;
+ bp:都市 "千葉"@ja .
+
+<20>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "東京支社管内成田分室"@ja ;
+ bp:所在地 "〒282-0011 千葉県成田市三里塚御料牧場1－1"@ja ;
+ bp:都市 "成田"@ja .
+
+<21>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "東京支社管内横浜支局"@ja ;
+ bp:所在地 "〒231-0011 神奈川県横浜市中区太田町2丁目23"@ja ;
+ bp:都市 "横浜"@ja .
+
+<22>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "東京支社管内さいたま支局"@ja ;
+ bp:所在地 "〒330-0064 埼玉県さいたま市浦和区岸町7丁目12?1"@ja ;
+ bp:都市 "さいたま市"@ja .
+
+<23>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "東京支社管内甲府支局"@ja ;
+ bp:所在地 "〒400-0024 山梨県甲府市北口2丁目6?10"@ja ;
+ bp:都市 "甲府"@ja .
+
+<24>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "東京支社管内長野支局"@ja ;
+ bp:所在地 "〒380-0836 長野県長野市南県町657"@ja ;
+ bp:都市 "長野"@ja .
+
+<25>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "東京支社管内新潟支局"@ja ;
+ bp:所在地 "〒950-0088 新潟県新潟市中央区万代3-1-1"@ja ;
+ bp:都市 "新潟"@ja .
+
+<26>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "名古屋支社管内津支局"@ja ;
+ bp:所在地 "〒514-0009 三重県津市羽所町388"@ja ;
+ bp:都市 "津"@ja .
+
+<27>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "名古屋支社管内静岡支局"@ja ;
+ bp:所在地 "〒422-8033 静岡県静岡市駿河区登呂3丁目1?1"@ja ;
+ bp:都市 "静岡"@ja .
+
+<28>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "名古屋支社管内岐阜支局"@ja ;
+ bp:所在地 "〒500-8069 岐阜県岐阜市今小町10"@ja ;
+ bp:都市 "岐阜"@ja .
+
+<29>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "名古屋支社管内富山支局"@ja ;
+ bp:所在地 "〒930-0094 富山県富山市安住町2?14"@ja ;
+ bp:都市 "富山"@ja .
+
+<30>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "名古屋支社管内金沢支局"@ja ;
+ bp:所在地 "〒920-0919 石川県金沢市南町2-1"@ja ;
+ bp:都市 "金沢"@ja .
+
+<31>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "名古屋支社管内福井支局"@ja ;
+ bp:所在地 "〒910-0802 福井県福井市大和田2丁目801"@ja ;
+ bp:都市 "福井"@ja .
+
+<32>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "大阪支社管内京都支局"@ja ;
+ bp:所在地 "〒604-0862 京都府京都市中京区烏丸夷川上ル"@ja ;
+ bp:都市 "京都"@ja .
+
+<33>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "大阪支社管内大津支局"@ja ;
+ bp:所在地 "〒520-0044 滋賀県大津市京町2－5－10（大津神港ビルヂング内）"@ja ;
+ bp:都市 "大津"@ja .
+
+<34>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "大阪支社管内奈良支局"@ja ;
+ bp:所在地 "〒630-8241 奈良県奈良市高天町38?3"@ja ;
+ bp:都市 "奈良"@ja .
+
+<35>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "大阪支社管内和歌山支局"@ja ;
+ bp:所在地 "〒640-8157 和歌山県和歌山市八番丁11"@ja ;
+ bp:都市 "和歌山"@ja .
+
+<36>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "大阪支社管内神戸支局"@ja ;
+ bp:所在地 "〒650-0044 兵庫県神戸市中央区東川崎町1丁目5?7"@ja ;
+ bp:都市 "神戸"@ja .
+
+<37>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "大阪支社管内岡山支局"@ja ;
+ bp:所在地 "〒700-8634 岡山県岡山市北区柳町2丁目1?1"@ja ;
+ bp:都市 "岡山"@ja .
+
+<38>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "大阪支社管内広島支局"@ja ;
+ bp:所在地 "〒730-0854 広島県広島市中区土橋町7?1"@ja ;
+ bp:都市 "広島"@ja .
+
+<39>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "大阪支社管内鳥取支局"@ja ;
+ bp:所在地 "〒680-0845 鳥取県鳥取市富安2丁目137"@ja ;
+ bp:都市 "鳥取"@ja .
+
+<40>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "大阪支社管内松江支局"@ja ;
+ bp:所在地 "〒690-0887 島根県松江市殿町383"@ja ;
+ bp:都市 "松江"@ja .
+
+<41>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "大阪支社管内山口支局"@ja ;
+ bp:所在地 "〒753-0074 山口県山口市中央5丁目7?3"@ja ;
+ bp:都市 "山口"@ja .
+
+<42>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "大阪支社管内高松支局"@ja ;
+ bp:所在地 "〒760-0008 香川県高松市中野町15?1"@ja ;
+ bp:都市 "高松"@ja .
+
+<43>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "大阪支社管内松山支局"@ja ;
+ bp:所在地 "〒790-0067 愛媛県松山市大手町1丁目12?1"@ja ;
+ bp:都市 "松山"@ja .
+
+<44>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "大阪支社管内徳島支局"@ja ;
+ bp:所在地 "〒770-0853 徳島市中徳島町2-5-2"@ja ;
+ bp:都市 "徳島"@ja .
+
+<45>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "大阪支社管内高知支局"@ja ;
+ bp:所在地 "〒780-8572 高知県高知市本町3丁目2?15"@ja ;
+ bp:都市 "高知"@ja .
+
+<46>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "福岡支社管内北九州分室"@ja ;
+ bp:所在地 "〒802-0005 福岡県北九州市小倉北区堺町1丁目2-16"@ja ;
+ bp:都市 "関門"@ja .
+
+<47>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "福岡支社管内大分支局"@ja ;
+ bp:所在地 "〒870-0021 大分県大分市府内町3丁目9?15"@ja ;
+ bp:都市 "大分"@ja .
+
+<48>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "福岡支社管内宮崎支局"@ja ;
+ bp:所在地 "〒880-0812 宮崎県宮崎市高千穂通1丁目1?33"@ja ;
+ bp:都市 "宮崎"@ja .
+
+<49>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "福岡支社管内長崎支局"@ja ;
+ bp:所在地 "〒852-8104 長崎県長崎市茂里町3?1"@ja ;
+ bp:都市 "長崎"@ja .
+
+<50>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "福岡支社管内佐賀支局"@ja ;
+ bp:所在地 "〒840-0815 佐賀県佐賀市天神3丁目2?23"@ja ;
+ bp:都市 "佐賀"@ja .
+
+<51>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "福岡支社管内熊本支局"@ja ;
+ bp:所在地 "〒860-8506 熊本県熊本市中央区世安町172"@ja ;
+ bp:都市 "熊本"@ja .
+
+<52>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "福岡支社管内鹿児島支局"@ja ;
+ bp:所在地 "〒890-8603 鹿児島県鹿児島市与次郎1丁目9?33"@ja ;
+ bp:都市 "鹿児島"@ja .
+
+<53>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "福岡支社管内那覇支局"@ja ;
+ bp:所在地 "〒900-0015 沖縄県那覇市久茂地1-3-1"@ja ;
+ bp:都市 "那覇"@ja .
+
+<54>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "中国総局"@ja ;
+ bp:都市 "北京"@ja .
+
+<55>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "上海支局"@ja ;
+ bp:都市 "上海"@ja .
+
+<56>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "広州支局"@ja ;
+ bp:都市 "広東"@ja .
+
+<57>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "香港支局"@ja ;
+ bp:都市 "香港"@ja .
+
+<58>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "台北支局"@ja ;
+ bp:都市 "台北"@ja .
+
+<59>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ウランバートル支局"@ja ;
+ bp:都市 "ウランバートル"@ja .
+
+<60>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "平壌支局"@ja ;
+ bp:都市 "平壌"@ja .
+
+<61>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ソウル支局"@ja ;
+ bp:都市 "ソウル"@ja .
+
+<62>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "バンコク支局"@ja ;
+ bp:都市 "バンコク"@ja .
+
+<63>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "マニラ支局"@ja ;
+ bp:都市 "マニラ"@ja .
+
+<64>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ジャカルタ支局"@ja ;
+ bp:都市 "ジャカルタ"@ja .
+
+<65>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ハノイ支局"@ja ;
+ bp:都市 "ハノイ"@ja .
+
+<66>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "プノンペン支局"@ja ;
+ bp:都市 "プノンペン"@ja .
+
+<67>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "シンガポール支局"@ja ;
+ bp:都市 "シンガポール"@ja .
+
+<68>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ヤンゴン支局"@ja ;
+ bp:都市 "ヤンゴン"@ja .
+
+<69>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ニューデリー支局"@ja ;
+ bp:都市 "ニューデリー"@ja .
+
+<70>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "イスラマバード支局"@ja ;
+ bp:都市 "イスラマバード"@ja .
+
+<71>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "カブール支局"@ja ;
+ bp:都市 "カブール"@ja .
+
+<72>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "シドニー支局"@ja ;
+ bp:都市 "シドニー"@ja .
+
+<73>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "カイロ支局"@ja ;
+ bp:都市 "カイロ"@ja .
+
+<74>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "エルサルム支局"@ja ;
+ bp:都市 "エルサルム"@ja .
+
+<75>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "イスタンブール支局"@ja ;
+ bp:都市 "イスタンブール"@ja .
+
+<76>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "テヘラン支局"@ja ;
+ bp:都市 "テヘラン"@ja .
+
+<77>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "バグダッド支局"@ja ;
+ bp:都市 "バグダッド"@ja .
+
+<78>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ナイロビ支局"@ja ;
+ bp:都市 "ナイロビ"@ja .
+
+<79>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ブリュッセル支局"@ja ;
+ bp:都市 "ブリュッセル"@ja .
+
+<80>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ロンドン支局"@ja ;
+ bp:都市 "ロンドン"@ja .
+
+<81>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "パリ支局"@ja ;
+ bp:都市 "パリ"@ja .
+
+<82>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ベルリン支局"@ja ;
+ bp:都市 "ベルリン"@ja .
+
+<83>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ローマ支局"@ja ;
+ bp:都市 "ローマ"@ja .
+
+<84>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ジュネーブ支局"@ja ;
+ bp:都市 "ジュネーブ"@ja .
+
+<85>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ベオグラード支局"@ja ;
+ bp:都市 "ベオグラード"@ja .
+
+<86>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ウィーン支局"@ja ;
+ bp:都市 "ウィーン"@ja .
+
+<87>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ワルシャワ支局"@ja ;
+ bp:都市 "ワルシャワ"@ja .
+
+<88>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "モスクワ支局"@ja ;
+ bp:都市 "モスクワ"@ja .
+
+<89>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ウラジオストク支局"@ja ;
+ bp:都市 "ウラジオストク"@ja .
+
+<90>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ワシントン支局"@ja ;
+ bp:都市 "ワシントン"@ja .
+
+<91>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ニューヨーク支局"@ja ;
+ bp:都市 "ニューヨーク"@ja .
+
+<92>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ロサンゼルス支局"@ja ;
+ bp:都市 "ロサンゼルス"@ja .
+
+<93>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "アーリントン支局"@ja ;
+ bp:都市 "アーリントン"@ja .
+
+<94>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "ハバナ支局"@ja ;
+ bp:都市 "ハバナ"@ja .
+
+<95>  bp:新聞社 "共同通信社"@ja ;
+ bp:拠点 "サンパウロ支局"@ja ;
+ bp:都市 "サンパウロ"@ja .
+
+<96>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "札幌支社"@ja ;
+ bp:所在地 "〒060-0004 札幌市中央区北4条西6-1 毎日札幌会館8F"@ja ;
+ bp:都市 "札幌"@ja .
+
+<97>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "苫小牧支局"@ja ;
+ bp:所在地 "〒053-0021 苫小牧市若草町3-1-8 苫小牧民報2F"@ja ;
+ bp:都市 "苫小牧"@ja .
+
+<98>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "室蘭支局"@ja ;
+ bp:所在地 "〒051-0022室蘭市海岸町1-4-1むろらん広域センタービル1F"@ja ;
+ bp:都市 "室蘭"@ja .
+
+<99>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "帯広支局"@ja ;
+ bp:所在地 "〒080-0801帯広市東一条南8-2十勝毎日新聞社ビル4F"@ja ;
+ bp:都市 "帯広"@ja .
+
+<100>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "釧路支局"@ja ;
+ bp:所在地 "〒085-0018釧路市黒金町7-3釧新ビル3F"@ja ;
+ bp:都市 "釧路"@ja .
+
+<101>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "旭川支局"@ja ;
+ bp:所在地 "〒070-0032旭川市二条通9丁目道銀ビル6F"@ja ;
+ bp:都市 "旭川"@ja .
+
+<102>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "函館支局"@ja ;
+ bp:所在地 "〒040-0063函館市若松町14-10函館ツインタワービル9F"@ja ;
+ bp:都市 "函館"@ja .
+
+<103>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "仙台支社"@ja ;
+ bp:所在地 "〒980-0822仙台市青葉区立町27-21仙台橋本ビル7F"@ja ;
+ bp:都市 "仙台"@ja .
+
+<104>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "石巻支局"@ja ;
+ bp:所在地 "〒986-0022石巻市魚町2-12-3石巻市水産総合振興センター2F　205号"@ja ;
+ bp:都市 "石巻"@ja .
+
+<105>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "青森支局"@ja ;
+ bp:所在地 "〒030-0861青森市長島2-25-3ニッセイ青森センタービル2F"@ja ;
+ bp:都市 "青森"@ja .
+
+<106>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "八戸支局"@ja ;
+ bp:所在地 "〒031-0031八戸市番町3NCビル3F"@ja ;
+ bp:都市 "八戸"@ja .
+
+<107>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "秋田支局"@ja ;
+ bp:所在地 "〒010-0951秋田市山王6-10-9猿田興業ビル4F"@ja ;
+ bp:都市 "秋田"@ja .
+
+<108>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "盛岡支局"@ja ;
+ bp:所在地 "〒020-0022盛岡市大通1-3-4宝来ビル5F"@ja ;
+ bp:都市 "盛岡"@ja .
+
+<109>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "山形支局"@ja ;
+ bp:所在地 "〒990-0031山形市十日町1-3-29山形十日町ビル7F"@ja ;
+ bp:都市 "山形"@ja .
+
+<110>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "福島支局"@ja ;
+ bp:所在地 "〒960-8068福島市太田町13-17福島民報ビル4F"@ja ;
+ bp:都市 "福島"@ja .
+
+<111>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "郡山支局"@ja ;
+ bp:所在地 "〒963-8017郡山市長者1-3-8イートンセンター2　112号"@ja ;
+ bp:都市 "郡山"@ja .
+
+<112>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "いわき支局"@ja ;
+ bp:所在地 "〒970-8026いわき市平字小太郎町3-1パークサイト小太郎301"@ja ;
+ bp:都市 "いわき"@ja .
+
+<113>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "立川支局"@ja ;
+ bp:所在地 "〒190-0012立川市曙町2-9-1菊屋ビル5F"@ja ;
+ bp:都市 "立川"@ja .
+
+<114>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "横浜総局"@ja ;
+ bp:所在地 "〒231-0021横浜市中区日本大通14KN日本大通ビル3F"@ja ;
+ bp:都市 "横浜"@ja .
+
+<115>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "川崎支局"@ja ;
+ bp:所在地 "〒210-0006川崎市川崎区砂子1-1-12いせやビル403"@ja ;
+ bp:都市 "川崎"@ja .
+
+<116>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "厚木支局"@ja ;
+ bp:所在地 "〒243-0014厚木市旭町1-32-5大沢ビル2F"@ja ;
+ bp:都市 "厚木"@ja .
+
+<117>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "相模原支局"@ja ;
+ bp:所在地 "〒252-0239神奈川県相模原市中央区中央3-12-3相模原商工会館　本館1F"@ja ;
+ bp:都市 "相模原"@ja .
+
+<118>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "千葉支局"@ja ;
+ bp:所在地 "〒260-0013千葉市中央区中央4-15-1読売千葉ビル3F"@ja ;
+ bp:都市 "千葉"@ja .
+
+<119>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "成田支局"@ja ;
+ bp:所在地 "〒282-0011成田市成田国際空港中央ビル新館 NC6040"@ja ;
+ bp:都市 "成田"@ja .
+
+<120>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "さいたま支局"@ja ;
+ bp:所在地 "〒330-0061さいたま市浦和区常盤4-1-1浦和システムビルヂング2F"@ja ;
+ bp:都市 "さいたま"@ja .
+
+<121>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "川越支局"@ja ;
+ bp:所在地 "〒350-1122川越市脇田町17-25畑仲ビル4F"@ja ;
+ bp:都市 "川越"@ja .
+
+<122>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "前橋支局"@ja ;
+ bp:所在地 "〒371-0022前橋市千代田町1-3-1"@ja ;
+ bp:都市 "前橋"@ja .
+
+<123>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "宇都宮支局"@ja ;
+ bp:所在地 "〒320-0033宇都宮市本町10-3TSビル3F"@ja ;
+ bp:都市 "宇都宮"@ja .
+
+<124>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "水戸支局"@ja ;
+ bp:所在地 "〒310-0011水戸市三の丸1-1-25水戸駅前ビル4F"@ja ;
+ bp:都市 "水戸"@ja .
+
+<125>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "つくば支局"@ja ;
+ bp:所在地 "〒305-0051つくば市二の宮3-8-2雅ビル401号"@ja ;
+ bp:都市 "つくば"@ja .
+
+<126>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "長野支局"@ja ;
+ bp:所在地 "〒380-0836長野市南県町657信濃毎日新聞社7F"@ja ;
+ bp:都市 "長野"@ja .
+
+<127>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "諏訪支局"@ja ;
+ bp:所在地 "〒392-0022諏訪市高島3-1323-1長野日報社5F"@ja ;
+ bp:都市 "諏訪"@ja .
+
+<128>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "松本支局"@ja ;
+ bp:所在地 "〒390-0873松本市丸の内8-3丸の内ビル"@ja ;
+ bp:都市 "松本"@ja .
+
+<129>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "新潟支局"@ja ;
+ bp:所在地 "〒950-0088新潟市中央区万代3-1-1新潟日報メディアシップ14F"@ja ;
+ bp:都市 "新潟"@ja .
+
+<130>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "名古屋支社"@ja ;
+ bp:所在地 "〒460-0003名古屋市中区錦2-2-13センタービル8F"@ja ;
+ bp:都市 "名古屋"@ja .
+
+<131>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "豊橋支局"@ja ;
+ bp:所在地 "〒440-0888豊橋市駅前大通2-33-1開発ビル9F"@ja ;
+ bp:都市 "豊橋"@ja .
+
+<132>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "岡崎支局"@ja ;
+ bp:所在地 "〒444-0047岡崎市八幡町1-10さんぞうビル3F"@ja ;
+ bp:都市 "岡崎"@ja .
+
+<133>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "静岡総局"@ja ;
+ bp:所在地 "〒420-0853静岡市葵区追手町9-22読売静岡ビル2F"@ja ;
+ bp:都市 "静岡"@ja .
+
+<134>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "沼津支局"@ja ;
+ bp:所在地 "〒410-0892沼津市魚町1サンフロント7F"@ja ;
+ bp:都市 "沼津"@ja .
+
+<135>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "浜松支局"@ja ;
+ bp:所在地 "〒430-0933浜松市中区鍛冶町124Hビル6F"@ja ;
+ bp:都市 "浜松"@ja .
+
+<136>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "岐阜支局"@ja ;
+ bp:所在地 "〒500-8875岐阜市柳ケ瀬通1-12岐阜中日ビル8F"@ja ;
+ bp:都市 "岐阜"@ja .
+
+<137>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "津支局"@ja ;
+ bp:所在地 "〒514-0004津市栄町1-840大同生命・瀧澤ビル7F4号"@ja ;
+ bp:都市 "津"@ja .
+
+<138>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "富山支局"@ja ;
+ bp:所在地 "〒930-0094 富山市安住町2-14北日本スクェア北館803号"@ja ;
+ bp:都市 "富山"@ja .
+
+<139>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "金沢支局"@ja ;
+ bp:所在地 "〒920-0961金沢市香林坊1-2-24香林坊プラザ"@ja ;
+ bp:都市 "金沢"@ja .
+
+<140>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "福井支局"@ja ;
+ bp:所在地 "〒910-0836福井市大和田2-801福井新聞社内4F"@ja ;
+ bp:都市 "福井"@ja .
+
+<141>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "大阪支社"@ja ;
+ bp:所在地 "〒541-0051大阪市中央区備後町4-1-3御堂筋三井ビルディング6F"@ja ;
+ bp:都市 "大阪"@ja .
+
+<142>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "堺支局"@ja ;
+ bp:所在地 "〒590-0075堺市堺区南花田口町2-1-18新堺東ビル4F"@ja ;
+ bp:都市 "堺"@ja .
+
+<143>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "京都総局"@ja ;
+ bp:所在地 "〒604-8101京都市中京区柳馬場通御池下る柳八幡町65京都朝日ビル5F"@ja ;
+ bp:都市 "京都"@ja .
+
+<144>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "神戸総局"@ja ;
+ bp:所在地 "〒650-0023神戸市中央区栄町通4-3-5毎日新聞神戸ビル6F"@ja ;
+ bp:都市 "神戸"@ja .
+
+<145>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "阪神支局"@ja ;
+ bp:所在地 "〒660-0881尼崎市昭和通3-96尼崎商工会議所ビル5F"@ja ;
+ bp:都市 "阪神"@ja .
+
+<146>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "姫路支局"@ja ;
+ bp:所在地 "〒670-0965姫路市東延末1-4東亜ビル2F"@ja ;
+ bp:都市 "姫路"@ja .
+
+<147>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "大津支局"@ja ;
+ bp:所在地 "〒520-0806大津市打出浜2-1コラボしが21　4F"@ja ;
+ bp:都市 "大津"@ja .
+
+<148>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "奈良支局"@ja ;
+ bp:所在地 "〒630-8217奈良市橋本町5好生ビル4F"@ja ;
+ bp:都市 "奈良"@ja .
+
+<149>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "和歌山支局"@ja ;
+ bp:所在地 "〒640-8567 和歌山市西汀丁36和歌山商工会議所ビル2F"@ja ;
+ bp:都市 "和歌山"@ja .
+
+<150>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "広島支社"@ja ;
+ bp:所在地 "〒730-0011広島市中区基町5-44商工会議所ビル5F"@ja ;
+ bp:都市 "広島"@ja .
+
+<151>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "福山支局"@ja ;
+ bp:所在地 "〒720-0812福山市霞町1-1-1信愛ビル7F"@ja ;
+ bp:都市 "福山"@ja .
+
+<152>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "岡山支局"@ja ;
+ bp:所在地 "〒700-0904岡山市北区柳町2-1-1山陽新聞本社ビル15F"@ja ;
+ bp:都市 "岡山"@ja .
+
+<153>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "鳥取支局"@ja ;
+ bp:所在地 "〒680-0034 鳥取市元魚町2-201エステートビルＶ 6F4号"@ja ;
+ bp:都市 "鳥取"@ja .
+
+<154>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "米子支局"@ja ;
+ bp:所在地 "〒683-0823 米子市加茂町2-204米子商工会議所5F"@ja ;
+ bp:都市 "米子"@ja .
+
+<155>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "松江支局"@ja ;
+ bp:所在地 "〒690-0846 松江市末次町23"@ja ;
+ bp:都市 "松江"@ja .
+
+<156>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "山口支局"@ja ;
+ bp:所在地 "〒753-0072山口市大手町7-4KRY山口放送ビル6F"@ja ;
+ bp:都市 "山口"@ja .
+
+<157>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "松山支局"@ja ;
+ bp:所在地 "〒790-0067 松山市大手町1-11-4愛媛新聞・愛媛電算ビル6F"@ja ;
+ bp:都市 "松山"@ja .
+
+<158>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "高松支局"@ja ;
+ bp:所在地 "〒760-0033高松市丸の内4-7"@ja ;
+ bp:都市 "高松"@ja .
+
+<159>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "徳島支局"@ja ;
+ bp:所在地 "〒770-0852徳島市徳島町2-13"@ja ;
+ bp:都市 "徳島"@ja .
+
+<160>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "高知支局"@ja ;
+ bp:所在地 "〒780-0901高知市上町2-5-1臼井エステートビル4F"@ja ;
+ bp:都市 "高知"@ja .
+
+<161>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "福岡支社"@ja ;
+ bp:所在地 "〒810-0001 福岡市中央区天神2-13-7福岡平和ビル7F"@ja ;
+ bp:都市 "福岡"@ja .
+
+<162>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "久留米支局"@ja ;
+ bp:所在地 "〒830-0023 久留米市中央町22-17大和建設本社ビル1F"@ja ;
+ bp:都市 "久留米"@ja .
+
+<163>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "北九州支局"@ja ;
+ bp:所在地 "〒802-0003 北九州市小倉北区米町2-2-1新小倉ビル3F"@ja ;
+ bp:都市 "北九州"@ja .
+
+<164>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "下関支局"@ja ;
+ bp:所在地 "〒750-0066 下関市東大和町1-1-7山口新聞会館4F"@ja ;
+ bp:都市 "下関"@ja .
+
+<165>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "佐賀支局"@ja ;
+ bp:所在地 "〒840-0826 佐賀市白山2-1-12佐賀商工ビル6F"@ja .
+
+<166>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "長崎支局"@ja ;
+ bp:所在地 "〒850-0033長崎市万才町6-35大樹生命長崎ビル3F"@ja .
+
+<167>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "熊本支局"@ja ;
+ bp:所在地 "〒860-0844 熊本市中央区水道町9-31損保ジャパン熊本水道町ビル5F"@ja .
+
+<168>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "大分支局"@ja ;
+ bp:所在地 "〒870-0046 大分市荷揚町6-16スカイメゾン外苑203号室"@ja .
+
+<169>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "宮崎支局"@ja ;
+ bp:所在地 "〒880-0803宮崎市旭1-8-18"@ja .
+
+<170>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "鹿児島支局"@ja ;
+ bp:所在地 "〒892-0821鹿児島市名山町1-3鹿児島ビル4F"@ja .
+
+<171>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "那覇支局"@ja ;
+ bp:所在地 "〒900-0021那覇市泉崎1-14-8"@ja .
+
+<172>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "中国総局"@ja ;
+ bp:都市 "中国"@ja .
+
+<173>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "上海（支局）"@ja ;
+ bp:都市 "上海"@ja .
+
+<174>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "香港（支局）"@ja ;
+ bp:都市 "香港"@ja .
+
+<175>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "台北（支局）"@ja ;
+ bp:都市 "台北"@ja .
+
+<176>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "ソウル（支局）"@ja ;
+ bp:都市 "ソウル"@ja .
+
+<177>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "バンコク（支局）"@ja ;
+ bp:都市 "バンコク"@ja .
+
+<178>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "ハノイ（支局）"@ja ;
+ bp:都市 "ハノイ"@ja .
+
+<179>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "マニラ（支局）"@ja ;
+ bp:都市 "マニラ"@ja .
+
+<180>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "クアラルンプール（支局）"@ja ;
+ bp:都市 "クアラルンプール"@ja .
+
+<181>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "シンガポール（支局）"@ja ;
+ bp:都市 "シンガポール"@ja .
+
+<182>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "ジャカルタ（支局）"@ja ;
+ bp:都市 "ジャカルタ"@ja .
+
+<183>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "ニューデリー（支局）"@ja ;
+ bp:都市 "ニューデリー"@ja .
+
+<184>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "シドニー（支局）"@ja ;
+ bp:都市 "シドニー"@ja .
+
+<185>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "カイロ（支局）"@ja ;
+ bp:都市 "カイロ"@ja .
+
+<186>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "エルサレム（支局）"@ja ;
+ bp:都市 "エルサレム"@ja .
+
+<187>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "ロンドン（支局）"@ja ;
+ bp:都市 "ロンドン"@ja .
+
+<188>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "パリ（支局）"@ja ;
+ bp:都市 "パリ"@ja .
+
+<189>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "ベルリン（支局）"@ja ;
+ bp:都市 "ベルリン"@ja .
+
+<190>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "フランクフルト（支局）"@ja ;
+ bp:都市 "フランクフルト"@ja .
+
+<191>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "ブリュッセル（支局）"@ja ;
+ bp:都市 "ブリュッセル"@ja .
+
+<192>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "モスクワ（支局）"@ja ;
+ bp:都市 "モスクワ"@ja .
+
+<193>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "ニューヨーク"@ja ;
+ bp:都市 "ニューヨーク"@ja .
+
+<194>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "ワシントン"@ja ;
+ bp:都市 "ワシントン"@ja .
+
+<195>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "シカゴ"@ja ;
+ bp:都市 "シカゴ"@ja .
+
+<196>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "シリコンバレー"@ja ;
+ bp:都市 "サンフランシスコ"@ja .
+
+<197>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "ロサンゼルス"@ja ;
+ bp:都市 "ロサンゼルス"@ja .
+
+<198>  bp:新聞社 "時事通信社"@ja ;
+ bp:拠点 "サンパウロ"@ja ;
+ bp:都市 "サンパウロ"@ja .
+
+<199>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Bangalore, Technopolis Location"@ja ;
+ bp:所在地 """Technopolis - Yamalur Village
+
+Amani Bellandur Kane
+
+Bangalore 560037
+
+India
+
++91 80 6749 0000"""@ja ;
+ bp:都市 "バンガロール"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/bangalore-technopolis-location> .
+
+<200>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Bangkok Location"@ja ;
+ bp:所在地 """Unit 1-2, 11th Floor, CRC Tower, All Seasons Place
+
+87/2 Wireless Road, Lumpini
+
+Pathumwan, Bangkok 10330
+
+Thailand
+
++662 648 9001"""@ja ;
+ bp:都市 "バンコク"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/bangkok-location> .
+
+<201>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Beijing, Arca Bldg Location"@ja ;
+ bp:所在地 """Arca Bldg Block 15
+
+Beijing 100193
+
+China
+
++86 10 6267 4111"""@ja ;
+ bp:都市 "北京"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/beijing-arca-bldg-location> .
+
+<202>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Beijing, World Trade Center Location"@ja ;
+ bp:所在地 """Thomson Reuters office locations
+20F, E1 Tower Oriental Plaza
+
+No.1 East Chang'an Avenue
+
+Beijing 100006
+
+China
+
++86 10 6627 1288"""@ja ;
+ bp:都市 "北京"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/beijing-world-trade-center-location> .
+
+<203>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Gujarat Location"@ja ;
+ bp:所在地 """2F, Parshwanth Esquare Building
+
+Corporate Road, Prahlad Nagar Ahmedabad
+
+Gujarat 380015
+
+India
+
++91 22 6180 7001"""@ja ;
+ bp:都市 "アフマダーバード"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/gujarat-location> .
+
+<204>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Gurgaon Location"@ja ;
+ bp:所在地 """10th Floor, Building 9B
+
+DLF Cyber City
+
+Gurgaon ? 122002, Haryana
+
+India"""@ja ;
+ bp:都市 "グルグラム"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/gurgaon-location> .
+
+<205>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Hong Kong, Cityplaza Location"@ja ;
+ bp:所在地 """Cityplaza Three
+
+14 Tai Koo Wan Road
+
+Quarry Bay
+
+Hong Kong
+
++852 2843 6363"""@ja ;
+ bp:都市 "香港"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/hong-kong-cityplaza-location> .
+
+<206>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Hong Kong, ICBC Tower Location"@ja ;
+ bp:所在地 """ICBC Tower, 18/F
+
+3 Garden Road
+
+Central
+
+Hong Kong
+
++852 3761 1800"""@ja ;
+ bp:都市 "香港"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/hong-kong-icbc-tower-location> .
+
+<207>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Hyderabad Location"@ja ;
+ bp:所在地 """Divyasree Solitaire 14
+
+Hyderabad, Andhra Pradesh 500081
+
+India
+
++91 40 6714 0000"""@ja ;
+ bp:都市 "ハイデラバード"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/hong-kong-icbc-tower-location> .
+
+<208>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Mumbai Location"@ja ;
+ bp:所在地 """1 Bandra Kurla Complex (BKC)
+
+Mumbai
+
+India
+
++91 22 6180 7001"""@ja ;
+ bp:都市 "ムンバイ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/mumbai-location> .
+
+<209>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Seoul Location"@ja ;
+ bp:所在地 """14F Gwanghwamun Building
+
+149 Sejong-daero, Jongno-gu
+
+Seoul 03186
+
+Korea, Republic of
+
++82 2 3704 5500"""@ja ;
+ bp:都市 "ソウル"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/mumbai-location> .
+
+<210>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Shanghai Location"@ja ;
+ bp:所在地 """Azia Center
+
+1233 Lujiazui Ring Road
+
+Shanghai 200120
+
+China
+
++86 21 6104 1688"""@ja ;
+ bp:都市 "上海"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/mumbai-location> .
+
+<211>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Singapore, Science Park Location"@ja ;
+ bp:所在地 """18 Science Park Drive
+
+118 229
+
+Singapore
+
++65 6403 5557"""@ja ;
+ bp:都市 "シンガポール"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/mumbai-location> .
+
+<212>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Taguig, Upper McKinley Road Location"@ja ;
+ bp:所在地 """8 and 20 Upper McKinley Road
+
+Taguig 1634
+
+Philippines
+
++632 459 1000"""@ja ;
+ bp:都市 "マニラ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/mumbai-location> .
+
+<213>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Taipei Location"@ja ;
+ bp:所在地 """Nanshan Plaza, located at 28, 29, 30, Subsection 4, Xinyi Section
+
+Xinyi
+
+Taipei
+
+Taiwan
+
++886 2 2503 3034"""@ja ;
+ bp:都市 "台北"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/mumbai-location> .
+
+<214>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Tokyo Location"@ja ;
+ bp:所在地 """5-3-1 Akasaka, Minato-Ku
+
+Tokyo 107-6901
+
+Japan
+
++813 6441 1200"""@ja ;
+ bp:都市 "東京"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/tokyo-location> .
+
+<215>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Melbourne, 333 Collins Street Location"@ja ;
+ bp:所在地 """333 Collins Street
+
+Melbourne
+
+Australia
+
++61 3 8684 2000"""@ja ;
+ bp:都市 "メルボルン"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/melbourne-333-collins-street-location> .
+
+<216>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Pyrmont Location"@ja ;
+ bp:所在地 """19 Harris Street, Level 6
+
+Pyrmont NSW 2009
+
+Australia
+
++61 (0)2 8587 7980"""@ja ;
+ bp:都市 "シドニー"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/pyrmont-location> .
+
+<217>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Dubai Location"@ja ;
+ bp:所在地 """Dubia Media City, Building 1
+
+Dubai
+
+United Arab Emirates
+
++971 44536300"""@ja ;
+ bp:都市 "ドバイ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/dubai-location> .
+
+<218>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Johannesburg Location"@ja ;
+ bp:所在地 """2 Maude Street
+
+Sandton, Johannesburg 2196
+
+South Africa
+
++27 11 775 3000"""@ja ;
+ bp:都市 "ヨハネスブルグ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/johannesburg-location> .
+
+<219>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Lagos Location"@ja ;
+ bp:所在地 """KPMG Towers
+
+Bishop Aboyade Cole Street
+
+Lagos
+
+Nigeria
+
++234 1700 7302"""@ja ;
+ bp:都市 "ラゴス"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/lagos-location> .
+
+<220>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Amsterdam Location"@ja ;
+ bp:所在地 """Antonio Vivaldistraat 50, 1083 HP
+
+Amsterdam
+
+Netherlands
+
++31 20 504 5045"""@ja ;
+ bp:都市 "アムステルダム"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/amsterdam-location> .
+
+<221>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Athens Location"@ja ;
+ bp:所在地 """8 Othonos Street
+
+Syntagma Square
+
+105 57 Athens
+
+Greece
+
++30 210 33 11 800"""@ja ;
+ bp:都市 "アテネ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/athens-location> .
+
+<222>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Berlin Location"@ja ;
+ bp:所在地 """Berliner Freiheit 2
+
+10785 Berlin
+
+Germany
+
++49 30 2888 5000"""@ja ;
+ bp:都市 "ベルリン"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/berlin-location> .
+
+<223>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Bucharest Location"@ja ;
+ bp:所在地 """17,C.A Rosetti 2nd District
+
+Bucharest 020011
+
+Romania
+
++40 21 3055285"""@ja ;
+ bp:都市 "ブカレスト"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/bucharest-location> .
+
+<224>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Budapest Location"@ja ;
+ bp:所在地 """Ujbuda Allee Corner, H-1117 Huszonharmadika str. 8-10
+
+Budapest
+
+Hungary
+
++36 1 327 4600"""@ja ;
+ bp:都市 "ブダペスト"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/budapest-location> .
+
+<225>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Copenhagen Location"@ja ;
+ bp:所在地 """Industriens Hus, Vesterbrogade 1E, 4. Sal
+
+1620 Copenhagen V
+
+Denmark
+
++45 33 96 96 96"""@ja ;
+ bp:都市 "コペンハーゲン"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/copenhagen-location> .
+
+<226>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Dublin, Exchange Place Location"@ja ;
+ bp:所在地 """12-13 Exchange Place, 3rd Floor
+
+IFSC
+
+Dublin
+
+Ireland
+
++353 01 500 1500"""@ja ;
+ bp:都市 "ダブリン"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/dublin-exchange-place-location> .
+
+<227>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Frankfurt Location"@ja ;
+ bp:所在地 """Messeturm Friedrich Ebert Anlage 49
+
+Frankfurt 60327
+
+Germany
+
++49 69 756 50"""@ja ;
+ bp:都市 "フランクフルト"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/frankfurt-location> .
+
+<228>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Gdynia Location"@ja ;
+ bp:所在地 """Baltic Business Center
+
+23/25 Slaska Street
+
+Gdynia 81319
+
+Poland
+
++48 58 699 4600"""@ja ;
+ bp:都市 "グディニャ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/gdynia-location> .
+
+<229>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Hamburg Location"@ja ;
+ bp:所在地 """Regus, -Kurze Muehren 1
+
+Hamburg
+
+Germany
+
++49 40 419034200"""@ja ;
+ bp:都市 "ハンブルク"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/hamburg-location> .
+
+<230>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Helsinki Location"@ja ;
+ bp:所在地 """Regus Luna House, office 610, 6th Floor
+
+Mannerheimintie 2b
+
+Helsinki
+
+Finland
+
++358 9 680501"""@ja ;
+ bp:都市 "ヘルシンキ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/helsinki-location> .
+
+<231>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Istanbul Location"@ja ;
+ bp:所在地 """4 Levent
+
+IS Kulerleri Kule 2 Kat: 1-2
+
+80620 Istanbul
+
+Turkey
+
++90 212 350 70 00"""@ja ;
+ bp:都市 "イスタンブール"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/istanbul-location> .
+
+<232>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "London, Blackwall Yard Location"@ja ;
+ bp:所在地 """Blackwall Yard
+
+1 Paul Julius Close
+
+London E14 2EH
+
+United Kingdom
+
++44 (0) 20 7542 5295"""@ja ;
+ bp:都市 "ロンドン"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/london-blackwall-yard-location> .
+
+<233>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "London, Canada Square Location"@ja ;
+ bp:所在地 """5 Canada Square
+
+London
+
+United Kingdom
+
+44 (0)207 542 6666"""@ja ;
+ bp:都市 "ロンドン"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/london-canada-square-location> .
+
+<234>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "London, South Colonnade Location"@ja ;
+ bp:所在地 """30 South Colonnade-Canary Wharf
+
+London E14 5EP
+
+United Kingdom
+
++44 (0) 20 7250 1122"""@ja ;
+ bp:都市 "ロンドン"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/london-south-colonnade-location> .
+
+<235>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Madrid Location"@ja ;
+ bp:所在地 """Paseo de Recoletos 37-41
+
+Madrid
+
+Spain
+
++34 915 85 21 00"""@ja ;
+ bp:都市 "マドリード"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/madrid-location> .
+
+<236>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Milan Location"@ja ;
+ bp:所在地 """Piazza Diaz No 2.
+
+Milan
+
+Italy
+
++39 02 661 291"""@ja ;
+ bp:都市 "ミラノ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/milan-location> .
+
+<237>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Moscow Location"@ja ;
+ bp:所在地 """5 Petrovka Street
+
+Moscow 107031
+
+Russian Federation
+
++7 495 961 0100"""@ja ;
+ bp:都市 "モスクワ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/moscow-location> .
+
+<238>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Navarra Location"@ja ;
+ bp:所在地 """Camino De Galar 15
+
+Navarra 31190
+
+Spain
+
++34 9 48 29 72 97"""@ja ;
+ bp:都市 "ナバラ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/navarra-location> .
+
+<239>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Nottingham Location"@ja ;
+ bp:所在地 """Chapel Bar
+
+Nottingham NG1 6HQ
+
+United Kingdom
+
++44 (0) 20 7542 4300"""@ja ;
+ bp:都市 "ノッティンガム"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/nottingham-location> .
+
+<240>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Oslo Location"@ja ;
+ bp:所在地 """Dronning Eufemias gate 16, 0191
+
+Oslo
+
+Norway
+
++47 23316440"""@ja ;
+ bp:都市 "オスロ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/oslo-location> .
+
+<241>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Paris Location"@ja ;
+ bp:所在地 """6-8 Blvd Hausmann
+
+Paris 75009
+
+France
+
++33 1 49 49 50 00"""@ja ;
+ bp:都市 "パリ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/paris-location> .
+
+<242>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Prague Location"@ja ;
+ bp:所在地 """Vaclavske namesti 19
+
+11000 Prague
+
+Czech Republic
+
++ 420224190404"""@ja ;
+ bp:都市 "プラハ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/prague-location> .
+
+<243>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Stockholm Location"@ja ;
+ bp:所在地 """Kungsgatan 15
+
+111 43
+
+Stockholm
+
+Sweden
+
++46 8 700 10 00"""@ja ;
+ bp:都市 "ストックホルム"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/stockholm-location> .
+
+<244>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Vienna Location"@ja ;
+ bp:所在地 """Boersegasse 11
+
+1010 Vienna
+
+Austria
+
++43(1)53112 0"""@ja ;
+ bp:都市 "ウィーン"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/vienna-location> .
+
+<245>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Warsaw Location"@ja ;
+ bp:所在地 """Atrium Business Center
+
+Wola, Aleja Jana Pawla II 23
+
+00-854 Warsaw
+
+Poland
+
++48 22 653 97 00"""@ja ;
+ bp:都市 "ワルシャワ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/warsaw-location> .
+
+<246>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "West Yorkshire Location"@ja ;
+ bp:所在地 """The Hatchery
+
+Hall Bank Lane, Mytholmroyd
+
+West Yorkshire HX7 5HQ
+
+United Kingdom
+
++44 (0) 20 7542 5295"""@ja ;
+ bp:都市 "西ヨークシャー"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/west-yorkshire-location> .
+
+<247>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Zug Location"@ja ;
+ bp:所在地 """Landis + Gyr-Strasse 3
+
+6300 Zug
+
+Switzerland
+
++41 58 306 50 40"""@ja ;
+ bp:都市 "ツーク"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/zug-location> .
+
+<248>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Zurich Location"@ja ;
+ bp:所在地 """Dufourstrasse 43
+
+Zurich, 8008
+
+Switzerland
+
++41 58 306 77 77"""@ja ;
+ bp:都市 "チューリッヒ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/z%C3%BCrich-location> .
+
+<249>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Calgary Location"@ja ;
+ bp:所在地 """407 2nd Street SW, 3rd Floor
+
+Calgary, Alberta T2G 1B1
+
+Canada"""@ja ;
+ bp:都市 "カルガリー"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/calgary-location> .
+
+<250>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Montreal, Graham Boulevard Location"@ja ;
+ bp:所在地 """3333 Graham Boulevard
+
+Montreal, Quebec H3R 1K1
+
+Canada
+
++1 514 733 8355"""@ja ;
+ bp:都市 "モントリオール"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/montreal-graham-boulevard-location> .
+
+<251>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Montreal, Rue Queen Location"@ja ;
+ bp:所在地 """75 Rue Queen
+
+Montreal, Quebec H3C 2N6
+
+Canada
+
++1 514 842 3937"""@ja ;
+ bp:都市 "モントリオール"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/montreal-rue-queen-location> .
+
+<252>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Toronto, Bartley Drive Location"@ja ;
+ bp:所在地 """245 Bartley Drive
+
+Toronto, Ontario M4A 2V8
+
+Canada
+
++1 416 609 8000"""@ja ;
+ bp:都市 "トロント"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/toronto-bartley-drive-location> .
+
+<253>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Toronto, Bay Street Location, Headquarters"@ja ;
+ bp:所在地 """333 Bay Street
+
+Toronto, Ontario M5H 2R2
+
+Canada
+
++1 416 687 7500"""@ja ;
+ bp:都市 "トロント"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/toronto-bay-street-location-headquarters> .
+
+<254>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Toronto, Bremner Boulevard Location"@ja ;
+ bp:所在地 """120 Bremner Boulevard
+
+Toronto, Ontario
+
+Canada
+
++1 416 607 1600"""@ja ;
+ bp:都市 "トロント"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/toronto-bremner-boulevard-location> .
+
+<255>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Toronto, Kennedy Road Location"@ja ;
+ bp:所在地 """2075 Kennedy Road
+
+Toronto, Ontario M1T 3V4
+
+Canada
+
++1 416 609 8000"""@ja ;
+ bp:都市 "トロント"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/toronto-kennedy-road-location> .
+
+<256>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Albuquerque, NM Location"@ja ;
+ bp:所在地 """4401 Masthead NE, Suite 100
+
+Albuquerque, New Mexico 87109
+
+United States
+
++1 505 353 4001"""@ja ;
+ bp:都市 "アルバカーキ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/albuquerque-nm-location> .
+
+<257>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Ann Arbor, MI Location"@ja ;
+ bp:所在地 """6300 Interfirst Drive
+
+Ann Arbor, Michigan 48108
+
+United States
+
++1 800 968 8900"""@ja ;
+ bp:都市 "アナーバー"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/ann-arbor-mi-location> .
+
+<258>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Boston Location"@ja ;
+ bp:所在地 """26 Thomson Place
+
+Boston, Massachusetts 02210
+
+United States
+
++1 617 856 2000"""@ja ;
+ bp:都市 "ボストン"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/boston-location> .
+
+<259>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Chicago, IL Location"@ja ;
+ bp:所在地 """311 South Wacker Drive
+
+Chicago, Illinois 60606
+
+United States
+
++1 312 408 8500"""@ja ;
+ bp:都市 "シカゴ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/chicago-il-location> .
+
+<260>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Dallas Location"@ja ;
+ bp:所在地 """2395 Midway Road
+
+Carrollton, Texas 75006
+
+United States
+
++1 800 327 8829"""@ja ;
+ bp:都市 "ダラス"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/dallas-location> .
+
+<261>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Hoboken, NJ Location"@ja ;
+ bp:所在地 """121 River Street
+
+Hoboken, New Jersey 07030
+
+United States
+
++1 201 356 6260"""@ja ;
+ bp:都市 "ホーボーケン"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/hoboken-nj-location> .
+
+<262>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Minneapolis-Saint Paul Location"@ja ;
+ bp:所在地 """610 Opperman Dr
+
+Eagan, Minnesota 55123
+
+United States
+
++1 651 687 7000"""@ja ;
+ bp:都市 "ミネアポリス"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/minneapolis-saint-paul-location> .
+
+<263>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "New York, Times Square Location"@ja ;
+ bp:所在地 """3 Times Square
+
+New York, New York 10036
+
+United States
+
++1 646 223 4000"""@ja ;
+ bp:都市 "ニューヨーク"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/new-york-times-square-location> .
+
+<264>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Portage, MI Location"@ja ;
+ bp:所在地 """510/524 East Milham Avenue
+
+Portage, Michigan 49002
+
+United States
+
++1 269 567 2900"""@ja ;
+ bp:都市 "ポーテージ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/portage-mi-location> .
+
+<265>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Rochester, NY Location"@ja ;
+ bp:所在地 """Aqueduct Building
+
+50 Broad Street E
+
+Rochester, New York 14694
+
+United States"""@ja ;
+ bp:都市 "ロチェスター"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/rochester-ny-location> .
+
+<266>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "San Francisco, CA Location"@ja ;
+ bp:所在地 """50 California Street
+
+San Francisco, California 94111
+
+United States
+
++1 415 344 6000"""@ja ;
+ bp:都市 "サンフランシスコ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/san-francisco-ca-location> .
+
+<267>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Stamford, CT Location"@ja ;
+ bp:所在地 """1 Station Place
+
+Stamford, Connecticut 06902
+
+United States
+
++1 203 539 8000"""@ja ;
+ bp:都市 "スタンフォード(CT)"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/stamford-ct-location> .
+
+<268>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Washington, DC Location"@ja ;
+ bp:所在地 """1333 H Street NW
+
+Washington DC 20005
+
+United States
+
++1 202 898 8300"""@ja ;
+ bp:都市 "ワシントン D.C."@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/washington-dc-location> .
+
+<269>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Bogota Location"@ja ;
+ bp:所在地 """Edificio Tierra Firme
+
+Carrera 9na # 115-06, piso 26, oficina 2602
+
+Bogota D.C.
+
+Colombia
+
+57 (1) 5185444"""@ja ;
+ bp:都市 "ボゴタ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/bogota-location> .
+
+<270>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Buenos Aires, Av. Rivadavia Location"@ja ;
+ bp:所在地 """Av. Rivadavia 130, Avellaneda
+
+Buenos Aires B1870
+
+Argentina
+
++54 11 4209 9600"""@ja ;
+ bp:都市 "ブエノスアイレス"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/buenos-aires-av.-rivadavia-location> .
+
+<271>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Buenos Aires, Bartolome Mitre Location"@ja ;
+ bp:所在地 """Bartolome Mitre 430
+
+Buenos Aires C1022AAR
+
+Argentina
+
++5411 5544 6600"""@ja ;
+ bp:都市 "ブエノスアイレス"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/buenos-aires-bartolom%C3%A9-mitre-location> .
+
+<272>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Buenos Aires, Calle Tucuman Location"@ja ;
+ bp:所在地 """Calle Tucuman 1471
+
+Buenos Aires A1050
+
+Argentina
+
+0800 222 5253"""@ja ;
+ bp:都市 "ブエノスアイレス"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/buenos-aires-calle-tucuman-location> .
+
+<273>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Campinas Rua Conceicao Location"@ja ;
+ bp:所在地 """Rua Conceicao
+
+233 Sala 604, Centro
+
+Campinas
+
+Brazil
+
++55 19 3344 9200"""@ja ;
+ bp:都市 "カンピーナス"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/campinas-rua-conceicao-location> .
+
+<274>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Campinas Rua Orlando Fagnani Location"@ja ;
+ bp:所在地 """Rua Orlando Fagnani, 422
+
+Nova Campinas, CEP: 13092-054
+
+Campinas ? SP
+
+Brazil
+
++55 19 3344 9200"""@ja ;
+ bp:都市 "カンピーナス"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/campinas-rua-orlando-fagnani-location> .
+
+<275>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Caracas Location"@ja ;
+ bp:所在地 """Edificio Torre La Castellana, Piso 4, OF 4J
+
+La Castellana
+
+Caracas (Chacao)
+
+Venezuela
+
++58 212 277 2700/5651/2651/2701"""@ja ;
+ bp:都市 "カラカス"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/caracas-location> .
+
+<276>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Heredia Location"@ja ;
+ bp:所在地 """Ultrapark 2
+
+Heredia
+
+Costa Rica
+
++(506) 2277-8832"""@ja ;
+ bp:都市 "エレディア"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/heredia-location> .
+
+<277>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Juiz de Fora Location"@ja ;
+ bp:所在地 """Rua Moraes e Castro
+
+366, Pisos 1 a 3, Alto dos Passos
+
+Juiz de Fora
+
+Brazil
+
++55 32 4009 2900"""@ja ;
+ bp:都市 "ジュイス・デ・フォーラ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/juiz-de-fora-location> .
+
+<278>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Lima Location"@ja ;
+ bp:所在地 """Av. Victor Andres Belaunde 332, Oficina 302
+
+San Isidro
+
+Lima
+
+Peru
+
++51 1 707 5933/+51 0800 77116"""@ja ;
+ bp:都市 "リマ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/lima-location> .
+
+<279>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Mexico City, Blvd. Manuel Avila Camacho Location"@ja ;
+ bp:所在地 """Blvd. Manuel Avila Camacho #36, Piso 19, Torre Esmeralda II
+
+Colonia Lomas de Chapultepec, Delegacion Miguel Hidalgo, C.P. 11000
+
+Mexico City
+
+Mexico
+
+52 (55) 5282 7000"""@ja ;
+ bp:都市 "メキシコシティ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/mexico-city-blvd.-manuel-%C3%A1vila-camacho-location> .
+
+<280>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Santiago Location"@ja ;
+ bp:所在地 """Edificio Centenario, Piso 10
+
+Miraflores 383
+
+Santiago, Region Metropolitana
+
+Chile
+
++56 225105000"""@ja ;
+ bp:都市 "サンティアゴ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/santiago-location> .
+
+<281>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Sao Paulo, Cardoso de Melo Location"@ja ;
+ bp:所在地 """Av. Cardoso de Melo, 1855, 13 Andar, Vila Olimpia
+
+Sao Paulo
+
+Brazil
+
++55 11 2159 0500"""@ja ;
+ bp:都市 "サンパウロ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/sao-paulo-cardoso-de-melo-location> .
+
+<282>  bp:新聞社 "Thomson Reuters"@ja ;
+ bp:拠点 "Sao Paulo, Rua do Bosque Location"@ja ;
+ bp:所在地 """Rua do Bosque, 820, Barra Funda
+
+Sao Paulo
+
+Brazil
+
++55 11 3613 8400"""@ja ;
+ bp:都市 "サンパウロ"@ja ;
+ bp:URL <https://www.thomsonreuters.com/en/locations/location-detail.html/sao-paulo-rua-do-bosque-location> .

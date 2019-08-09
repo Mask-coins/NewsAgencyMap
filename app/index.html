@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;" charset="utf-8"/>
+    <title>News Agency Map</title>
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/d3.v3.min.js"></script>
+    <script src="js/d3sparql.js"></script>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.css"/>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet-src.js"></script>
+    <script src="./bootstrap/js/bootstrap.min.js"></script>
+    <script src="script/pref.js"></script> <!-- 経度緯度情報 -->
+    <script src="script/script.js"></script>
+  </head>
+  <body>
+    <header>
+    </header>
+    <main>
+      <div class="wrapper">      	
+		<div><textarea id="status"></textarea></div>
+		<div id="sgvzl_example_table3"
+	 data-sgvizler-endpoint="http://localhost:3030/NewaAgencyInfo/query"
+	 data-sgvizler-query=""
+	 data-sgvizler-chart="google.visualization.Table"
+	 data-sgvizler-loglevel="2" style="width:800px; height:200px;">
+		<div id="gmap"></div>
+      </div>
+    </main>
+  </body>
+</html>

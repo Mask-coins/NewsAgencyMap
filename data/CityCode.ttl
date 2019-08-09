@@ -1,0 +1,881 @@
+@base <http://www.coins.tsukuba.ac.jp/~s1711348/CityCode#> .
+@prefix bp: <http://www.coins.tsukuba.ac.jp/~s1711348/CityCode/property/> . 
+@prefix cc: <http://creativecommons.org/ns#> .
+
+<> cc:attributionName "" ;
+   cc:license <http://creativecommons.org/publicdomain/zero/1.0/deed.ja> .
+<1>  bp:都市 "釧路"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/釧路市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "北海道" .
+
+<2>  bp:都市 "帯広"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/帯広市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "北海道" .
+
+<3>  bp:都市 "旭川"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/旭川市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "北海道" .
+
+<4>  bp:都市 "札幌"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/札幌市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "北海道" ;
+ bp:都市圏 "札幌" .
+
+<5>  bp:都市 "苫小牧"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/苫小牧市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "北海道" .
+
+<6>  bp:都市 "函館"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/函館市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "北海道" .
+
+<7>  bp:都市 "青森"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/青森市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "青森県" .
+
+<8>  bp:都市 "八戸"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/八戸市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "青森県" .
+
+<9>  bp:都市 "秋田"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/秋田市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "秋田県" .
+
+<10>  bp:都市 "山形"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/山形市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "山形県" .
+
+<11>  bp:都市 "盛岡"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/盛岡市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "岩手県" .
+
+<12>  bp:都市 "石巻"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/石巻市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "岩手県" .
+
+<13>  bp:都市 "仙台"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/仙台市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "宮城県" .
+
+<14>  bp:都市 "福島"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/福島市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "福島県" .
+
+<15>  bp:都市 "郡山"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/郡山市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "福島県" .
+
+<16>  bp:都市 "いわき"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/いわき市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "福島県" .
+
+<17>  bp:都市 "宇都宮"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/宇都宮市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "栃木県" .
+
+<18>  bp:都市 "水戸"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/水戸市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "茨城県" .
+
+<19>  bp:都市 "つくば"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/つくば市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "茨城県" .
+
+<20>  bp:都市 "前橋"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/前橋市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "群馬県" .
+
+<21>  bp:都市 "成田"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/成田市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "千葉県" ;
+ bp:都市圏 "東京" .
+
+<22>  bp:都市 "千葉"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/千葉市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "千葉県" ;
+ bp:都市圏 "東京" .
+
+<23>  bp:都市 "東京"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/東京都> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "東京都" ;
+ bp:都市圏 "東京" .
+
+<24>  bp:都市 "立川"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/立川市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "東京都" ;
+ bp:都市圏 "東京" .
+
+<25>  bp:都市 "川崎"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/川崎市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "神奈川県" ;
+ bp:都市圏 "東京" .
+
+<26>  bp:都市 "横浜"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/横浜市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "神奈川県" ;
+ bp:都市圏 "東京" .
+
+<27>  bp:都市 "厚木"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/厚木市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "神奈川県" ;
+ bp:都市圏 "東京" .
+
+<28>  bp:都市 "相模原"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/相模原市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "神奈川県" ;
+ bp:都市圏 "東京" .
+
+<29>  bp:都市 "さいたま市"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/さいたま市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "埼玉県" ;
+ bp:都市圏 "東京" .
+
+<30>  bp:都市 "川越"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/川越市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "埼玉県" ;
+ bp:都市圏 "東京" .
+
+<31>  bp:都市 "甲府"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/甲府市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "山梨県" .
+
+<32>  bp:都市 "長野"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/長野市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "長野県" .
+
+<33>  bp:都市 "松本"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/松本市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "長野県" .
+
+<34>  bp:都市 "諏訪"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/諏訪市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "長野県" .
+
+<35>  bp:都市 "新潟"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/新潟市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "新潟県" .
+
+<36>  bp:都市 "沼津"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/沼津市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "静岡県" .
+
+<37>  bp:都市 "静岡"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/静岡市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "静岡県" .
+
+<38>  bp:都市 "浜松"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/浜松市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "静岡県" .
+
+<39>  bp:都市 "豊橋"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/豊橋市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "愛知県" .
+
+<40>  bp:都市 "岡崎"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/岡崎市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "愛知県" ;
+ bp:都市圏 "名古屋" .
+
+<41>  bp:都市 "名古屋"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/名古屋市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "愛知県" ;
+ bp:都市圏 "名古屋" .
+
+<42>  bp:都市 "津"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/津市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "三重県" ;
+ bp:都市圏 "名古屋" .
+
+<43>  bp:都市 "岐阜"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/岐阜市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "岐阜県" ;
+ bp:都市圏 "名古屋" .
+
+<44>  bp:都市 "富山"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/富山市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "富山県" .
+
+<45>  bp:都市 "金沢"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/金沢市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "石川県" .
+
+<46>  bp:都市 "福井"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/福井市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "福井県" .
+
+<47>  bp:都市 "大津"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/大津市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "滋賀県" ;
+ bp:都市圏 "京阪神" .
+
+<48>  bp:都市 "奈良"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/奈良市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "奈良県" ;
+ bp:都市圏 "京阪神" .
+
+<49>  bp:都市 "京都"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/京都市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "京都府" ;
+ bp:都市圏 "京阪神" .
+
+<50>  bp:都市 "大坂"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/大坂市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "大阪府" ;
+ bp:都市圏 "京阪神" .
+
+<51>  bp:都市 "堺"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/堺市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "大阪府" ;
+ bp:都市圏 "京阪神" .
+
+<52>  bp:都市 "尼崎"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/尼崎市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "兵庫県" ;
+ bp:都市圏 "京阪神" .
+
+<53>  bp:都市 "神戸"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/神戸市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "兵庫県" ;
+ bp:都市圏 "京阪神" .
+
+<54>  bp:都市 "姫路"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/姫路市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "兵庫県" ;
+ bp:都市圏 "京阪神" .
+
+<55>  bp:都市 "和歌山"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/和歌山市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "和歌山県" ;
+ bp:都市圏 "京阪神" .
+
+<56>  bp:都市 "岡山"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/岡山市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "岡山県" .
+
+<57>  bp:都市 "福山"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/福山市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "広島県" .
+
+<58>  bp:都市 "広島"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/広島市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "広島県" ;
+ bp:都市圏 "広島" .
+
+<59>  bp:都市 "鳥取"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/鳥取市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "鳥取県" .
+
+<60>  bp:都市 "米子"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/米子市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "鳥取県" ;
+ bp:都市圏 "出雲" .
+
+<61>  bp:都市 "松江"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/松江市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "島根県" ;
+ bp:都市圏 "出雲" .
+
+<62>  bp:都市 "山口"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/山口市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "山口県" .
+
+<63>  bp:都市 "高松"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/高松市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "香川県" .
+
+<64>  bp:都市 "松山"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/松山市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "愛媛県" .
+
+<65>  bp:都市 "徳島"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/徳島市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "徳島市" .
+
+<66>  bp:都市 "高知"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/高知市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "高知県" .
+
+<67>  bp:都市 "下関"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/下関市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "山口県" ;
+ bp:都市圏 "関門" .
+
+<68>  bp:都市 "北九州市"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/北九州市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "北九州市" ;
+ bp:都市圏 "関門" .
+
+<69>  bp:都市 "福岡"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/福岡市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "福岡県" ;
+ bp:都市圏 "福岡" .
+
+<70>  bp:都市 "久留米"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/久留米市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "福岡県" ;
+ bp:都市圏 "福岡" .
+
+<71>  bp:都市 "大分"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/大分市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "大分県" .
+
+<72>  bp:都市 "宮崎"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/宮崎市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "宮崎県" .
+
+<73>  bp:都市 "長崎"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/長崎市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "長崎県" .
+
+<74>  bp:都市 "佐賀"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/佐賀市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "佐賀県" .
+
+<75>  bp:都市 "熊本"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/熊本市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "熊本県" .
+
+<76>  bp:都市 "鹿児島"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/鹿児島市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "鹿児島県" .
+
+<77>  bp:都市 "那覇"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/那覇市> ;
+ bp:広域 "日本" ;
+ bp:一級行政区 "沖縄県" .
+
+<78>  bp:都市 "シドニー"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/シドニー> ;
+ bp:広域 "オセアニア" .
+
+<79>  bp:都市 "メルボルン"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/メルボルン> ;
+ bp:広域 "オセアニア" ;
+ bp:一級行政区 "ビクトリア州" .
+
+<80>  bp:都市 "平壌"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/平壌> ;
+ bp:広域 "東アジア" .
+
+<81>  bp:都市 "ソウル"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ソウル> ;
+ bp:広域 "東アジア" .
+
+<82>  bp:都市 "ウランバートル"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ウランバートル> ;
+ bp:広域 "東アジア" ;
+ bp:一級行政区 "ウランバートル市" .
+
+<83>  bp:都市 "北京"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/北京> ;
+ bp:広域 "東アジア" ;
+ bp:一級行政区 "北京市" .
+
+<84>  bp:都市 "上海"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/上海> ;
+ bp:広域 "東アジア" ;
+ bp:一級行政区 "上海市" .
+
+<85>  bp:都市 "広東"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/広東> ;
+ bp:広域 "東アジア" ;
+ bp:一級行政区 "広東省" .
+
+<86>  bp:都市 "香港"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/香港> ;
+ bp:広域 "東アジア" ;
+ bp:一級行政区 "香港特別行政区" .
+
+<87>  bp:都市 "台北"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/台北> ;
+ bp:広域 "東アジア" ;
+ bp:一級行政区 "台北市" .
+
+<88>  bp:都市 "ハノイ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ハノイ> ;
+ bp:広域 "東南アジア" ;
+ bp:一級行政区 "ハノイ" .
+
+<89>  bp:都市 "プノンペン"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/プノンペン> ;
+ bp:広域 "東南アジア" ;
+ bp:一級行政区 "プノンペン特別市" .
+
+<90>  bp:都市 "バンコク"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/バンコク> ;
+ bp:広域 "東南アジア" ;
+ bp:一級行政区 "バンコク" .
+
+<91>  bp:都市 "ヤンゴン"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ヤンゴン> ;
+ bp:広域 "東南アジア" .
+
+<92>  bp:都市 "マニラ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/マニラ> ;
+ bp:広域 "東南アジア" ;
+ bp:一級行政区 "マニラ都市圏" .
+
+<93>  bp:都市 "クアラルンプール"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/クアラルンプール> ;
+ bp:広域 "東南アジア" .
+
+<94>  bp:都市 "シンガポール"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/シンガポール> ;
+ bp:広域 "東南アジア" .
+
+<95>  bp:都市 "ジャカルタ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ジャカルタ> ;
+ bp:広域 "東南アジア" .
+
+<96>  bp:都市 "ニューデリー"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ニューデリー> ;
+ bp:広域 "南アジア" ;
+ bp:一級行政区 "デリー" ;
+ bp:都市圏 "デリー" .
+
+<97>  bp:都市 "グルグラム"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/グルガーオン> ;
+ bp:広域 "南アジア" ;
+ bp:一級行政区 "ハリヤーナー州" ;
+ bp:都市圏 "デリー" .
+
+<98>  bp:都市 "アフマダーバード"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/アフマダーバード> ;
+ bp:広域 "南アジア" .
+
+<99>  bp:都市 "ムンバイ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ムンバイ> ;
+ bp:広域 "南アジア" ;
+ bp:一級行政区 "マハーラーシュトラ州" .
+
+<100>  bp:都市 "バンガロール"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/バンガロール> ;
+ bp:広域 "南アジア" ;
+ bp:一級行政区 "カルナータカ州" .
+
+<101>  bp:都市 "ハイデラバード"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ハイデラバード> ;
+ bp:広域 "南アジア" ;
+ bp:一級行政区 "テランガーナ州" .
+
+<102>  bp:都市 "イスラマバード"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/イスラマバード> ;
+ bp:広域 "南アジア" .
+
+<103>  bp:都市 "カブール"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/カブール> ;
+ bp:広域 "南アジア" .
+
+<104>  bp:都市 "テヘラン"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/テヘラン> ;
+ bp:広域 "西アジア" .
+
+<105>  bp:都市 "イスタンブール"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/イスタンブール> ;
+ bp:広域 "西アジア" .
+
+<106>  bp:都市 "エルサルム"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/エルサルム> ;
+ bp:広域 "西アジア" .
+
+<107>  bp:都市 "バグダッド"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/バグダッド> ;
+ bp:広域 "西アジア" .
+
+<108>  bp:都市 "ドバイ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ドバイ> ;
+ bp:広域 "西アジア" .
+
+<109>  bp:都市 "カイロ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/カイロ> ;
+ bp:広域 "北アフリカ" .
+
+<110>  bp:都市 "ナイロビ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ナイロビ> ;
+ bp:広域 "東アフリカ" .
+
+<111>  bp:都市 "ラゴス"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ラゴス> ;
+ bp:広域 "西アフリカ" ;
+ bp:一級行政区 "ラゴス州" .
+
+<112>  bp:都市 "ヨハネスブルグ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ヨハネスブルグ> ;
+ bp:広域 "南アフリカ" ;
+ bp:一級行政区 "ハウテン州" .
+
+<113>  bp:都市 "オスロ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/オスロ> ;
+ bp:広域 "北ヨーロッパ" ;
+ bp:一級行政区 "オスロ" .
+
+<114>  bp:都市 "コペンハーゲン"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/コペンハーゲン> ;
+ bp:広域 "北ヨーロッパ" ;
+ bp:一級行政区 "デンマーク首都地域" .
+
+<115>  bp:都市 "ストックホルム"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ストックホルム> ;
+ bp:広域 "北ヨーロッパ" ;
+ bp:一級行政区 "ストックホルム県" .
+
+<116>  bp:都市 "ヘルシンキ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ヘルシンキ> ;
+ bp:広域 "北ヨーロッパ" ;
+ bp:一級行政区 "ウーシマー県" .
+
+<117>  bp:都市 "ダブリン"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ダブリン> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "ダブリン州" .
+
+<118>  bp:都市 "西ヨークシャー"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ウェスト・ヨークシャー> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "西ヨークシャー州" .
+
+<119>  bp:都市 "ノッティンガム"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ノッティンガム> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "東ミッドランズ地域" .
+
+<120>  bp:都市 "ロンドン"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ロンドン> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "大ロンドン" .
+
+<121>  bp:都市 "アムステルダム"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/アムステルダム> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "北ホラント州" .
+
+<122>  bp:都市 "ブリュッセル"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ブリュッセル> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "ブリュッセル首都圏地域" .
+
+<123>  bp:都市 "パリ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/パリ> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "パリ" .
+
+<124>  bp:都市 "ナバラ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ナバラ> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "ナバラ州" .
+
+<125>  bp:都市 "マドリード"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/マドリード> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "マドリード州" .
+
+<126>  bp:都市 "ミラノ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ミラノ> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "ロンバルディア州" .
+
+<127>  bp:都市 "ローマ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ローマ> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "ラツィオ州" .
+
+<128>  bp:都市 "ジュネーブ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ジュネーブ> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "ジュネーブ州" .
+
+<129>  bp:都市 "チューリッヒ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/チューリッヒ> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "チューリッヒ州" .
+
+<130>  bp:都市 "ツーク"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ツーク> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "ツーク州" .
+
+<131>  bp:都市 "ハンブルク"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ハンブルク> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "自由・ハンザ都市ハンブルク" .
+
+<132>  bp:都市 "フランクフルト"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/フランクフルト> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "ヘッセン州" .
+
+<133>  bp:都市 "ベルリン"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ベルリン> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "ベルリン州" .
+
+<134>  bp:都市 "ウィーン"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ウィーン> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "ウィーン" .
+
+<135>  bp:都市 "プラハ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/プラハ> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "プラハ" .
+
+<136>  bp:都市 "グディニャ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/グディニャ> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "ポモージェ県" .
+
+<137>  bp:都市 "ワルシャワ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ワルシャワ> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "マゾフシェ県" .
+
+<138>  bp:都市 "ブダペスト"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ブダペスト> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "ブダペスト" .
+
+<139>  bp:都市 "ブカレスト"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ブカレスト> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "ブカレスト" .
+
+<140>  bp:都市 "アテネ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/アテネ> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "アッティカ" .
+
+<141>  bp:都市 "ベオグラード"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ベオグラード> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "ベオグラード" .
+
+<142>  bp:都市 "モスクワ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/モスクワ> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "モスクワ" .
+
+<143>  bp:都市 "ウラジオストク"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ウラジオストク> ;
+ bp:広域 "ヨーロッパ" ;
+ bp:一級行政区 "沿海地方" .
+
+<144>  bp:都市 "モントリオール"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/モントリオール> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "ケベック州" .
+
+<145>  bp:都市 "トロント"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/トロント> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "オンタリオ州" .
+
+<146>  bp:都市 "カルガリー"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/カルガリー> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "アルバータ州" .
+
+<147>  bp:都市 "ボストン"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ボストン> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "マサチューセッツ州" .
+
+<148>  bp:都市 "ホーボーケン"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ホーボーケン> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "ニュージャージー州" .
+
+<149>  bp:都市 "スタンフォード(CT)"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/スタンフォード_(コネチカット州)> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "コネチカット州" .
+
+<150>  bp:都市 "ニューヨーク"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ニューヨーク> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "ニューヨーク州" .
+
+<151>  bp:都市 "ロチェスター"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ロチェスター> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "ニューヨーク州" .
+
+<152>  bp:都市 "ワシントン D.C."@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ワシントン%20D.C.> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "ワシントンD.C." .
+
+<153>  bp:都市 "アーリントン"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/アーリントン> ;
+ bp:広域 "北米" .
+
+<154>  bp:都市 "アナーバー"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/アナーバー> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "ミシガン州" .
+
+<155>  bp:都市 "ポーテージ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ポーテージ> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "ミシガン州" .
+
+<156>  bp:都市 "シカゴ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/シカゴ> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "イリノイ州" .
+
+<157>  bp:都市 "ダラス"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ダラス> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "テキサス州" .
+
+<158>  bp:都市 "アルバカーキ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/アルバカーキ> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "ニューメキシコ州" .
+
+<159>  bp:都市 "ミネアポリス"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ミネアポリス> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "ミネソタ州" .
+
+<160>  bp:都市 "サンフランシスコ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/サンフランシスコ> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "カリフォルニア州" .
+
+<161>  bp:都市 "ロサンゼルス"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ロサンゼルス> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "カリフォルニア州" .
+
+<162>  bp:都市 "ハバナ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ハバナ> ;
+ bp:広域 "北米" ;
+ bp:一級行政区 "ハバナ市 " ;
+ bp:都市圏 "ハバナ" .
+
+<163>  bp:都市 "メキシコシティ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/メキシコシティ> ;
+ bp:広域 "中米" ;
+ bp:一級行政区 "メキシコシティ" .
+
+<164>  bp:都市 "エレディア"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/エレディア> ;
+ bp:広域 "中米" ;
+ bp:一級行政区 "エレディア州" .
+
+<165>  bp:都市 "ボゴタ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ボゴタ> ;
+ bp:広域 "南米" ;
+ bp:一級行政区 "首都特別区" .
+
+<166>  bp:都市 "カラカス"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/カラカス> ;
+ bp:広域 "南米" ;
+ bp:一級行政区 "カラカス大都市地区" .
+
+<167>  bp:都市 "リマ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/リマ> ;
+ bp:広域 "南米" ;
+ bp:一級行政区 "リマ郡" .
+
+<168>  bp:都市 "ブエノスアイレス"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ブエノスアイレス> ;
+ bp:広域 "南米" ;
+ bp:一級行政区 "	ブエノスアイレス" .
+
+<169>  bp:都市 "サンパウロ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/サンパウロ> ;
+ bp:広域 "南米" ;
+ bp:一級行政区 "サンパウロ州" .
+
+<170>  bp:都市 "カンピーナス"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/カンピーナス> ;
+ bp:広域 "南米" ;
+ bp:一級行政区 "サンパウロ州" .
+
+<171>  bp:都市 "ジュイス・デ・フォーラ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/ジュイス・デ・フォーラ> ;
+ bp:広域 "南米" ;
+ bp:一級行政区 "ミナスジェライス州" .
+
+<172>  bp:都市 "サンティアゴ"@ja ;
+ bp:記事名 <http://ja.dbpedia.org/resource/サンティアゴ_(チリ)> ;
+ bp:広域 "南米" ;
+ bp:一級行政区 "首都州" .
